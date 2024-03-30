@@ -1,0 +1,54 @@
+Interviews are hard,
+but until we can learn to read people's thoughts
+directly from their brains, they are the single best way to learn about your customers' mindsets,
+values, and belief systems. Here are five common mistakes to avoid. Mistake number one, not
+building enough rapport. While interviews are a
+great way to learn a lot about your customers, we can't just cold call someone and ask: (phone ringing) - Hello? - Hey, this is Therese. Can you tell me about
+your mindsets, values, and belief systems? (crickets chirping) You have to build rapport first. This means introducing yourself and even making a little
+bit of small talk. While small talk can
+sound absolutely dreadful to some people, I think small
+talk actually gets a bad rap. It can be an incredible
+rapport-building detective tool. Hi, Rachel, nice to meet you - Hey. - So, I'm Therese. I'm the researcher that
+will be working with you and I work with NN/g, so thanks so much for taking the time to meet with us. Where are you calling in from, by the way? - Oh, well, normally, I'd be in Milwaukee, but today I am in Chicago. - If the interviewer hadn't asked where they were calling from, they would never have known
+that the person was working from somewhere unusual or that they were helping
+their family move. Those two pieces of
+information can say a lot about what someone might care about. It's easy to go too far
+with rapport, though. You mentioned you took a Lyft here. So, are you from the area or? - Yeah, I live in Seattle. - Oh my gosh, I used to live in Kirkland. - Really?
+- Yeah. Oh, Seattle's so cool, isn't it? - Yeah. - I guess, Kirkland's
+kinda changed a lot I know over the last five years. I'm originally from Jersey
+City and over there, it's like every five years,
+there's a new building. Yeah, Kirkland, I guess
+it's a little more stable, but you know, Seattle is pretty cool. - Yeah. - This conversation got
+derailed really fast because the interviewer made it about her own lived experiences rather than that of the interviewee. It's easy to do that when you're trying to be seen as likable or approachable as a person. But don't worry so much about being liked and focus on being an
+active listener instead. Mistake number two, not probing enough. Probing questions are questions that help gain specific,
+in-depth, follow-up information about a topic. A lot of interviewers will shy
+away from probing too much, either because it feels rude to pry or because it makes them look
+like they don't know much about the field. - Yeah, the OKRs are really high-priority on the stakeholders' lists right now, so we've been working with
+PMs to get the backlog on the APIs all straightened out. - However, playing dumb
+is often a good tactic to get more information that otherwise wouldn't
+have been offered up freely. Even if you have a good speculation for what some words of phrases may mean, sometimes assumptions are incorrect, so it's worth asking anyway. When you say PMs, that means? Totally the project manager. - Oh, actually, the product manager. Yeah, we use PJM for the project manager, but not everyone uses the right acronym - Can you tell me more about that? - Oh, yeah, the wrong people
+reply to emails all the time. It's really annoying. - See? Probing can shed light on problems that you may not have known existed. Mistake number three,
+multitasking during the interview. I get it, the texts, the
+pings, the calendar reminders, we don't love when these
+disrupt an interview. And some of it is unavoidable, even when we mute our devices. But the biggest culprit of multitasking during
+interviews, note-taking. Not only are we terrible note-takers when we're facilitating an interview, but it also makes us poor facilitators by taking our eye contact
+away from the participant. Instead, delegate
+note-taking to someone else and when possible, record your interviews for transcription and analysis later. Mistake number four, allowing observers to influence the interview. An interview is a one-on-one conversation and when people are interested
+in observing research, that can be a good thing. While it's not a deal breaker
+to have an observer or two, imagine five people staring
+at you as you respond. It gets a little scary. And if more than one tries to interject at
+the same time, yikes. If you record the interview, that can help avoid some of the issues with too many observers. But nonetheless, you should
+share some clear ground rules, like limiting the number
+of staff in the room to three people max and have only the
+facilitator ask questions. After all, it's the facilitator
+who's built the rapport. Last but not least, the most
+compromising of all mistakes, number five, leading the participant. Sometimes, researchers
+accidentally show their cards and say a little too much, or they phrase a question a certain way which primes the participant
+to respond differently, their answers skewed
+by researcher behavior. For example, if I were to ask, "How do mobile devices play a role during in-store price comparisons?" this might prime the
+participant to give me examples of times they've used their mobile devices to compare prices. But if I were to ask, "How
+do you shop for appliances?" we might find very
+different user behavior, like forgoing mobile devices or maybe even uncovering new behavior, like researching brand
+reputations in advance. So, keep the study's
+purpose relatively vague. Keep questions as open-ended as possible and mind your body language as you go. There you have it. If you're interested in
+more user interview tactics, check out our full-day course on user interviews at nngroup.com. Good luck.
