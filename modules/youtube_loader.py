@@ -1,5 +1,6 @@
 import os
 from langchain_community.document_loaders import YoutubeLoader
+from modules.url_mapping import save_mapping
 
 def write_video_content_to_file(url):
     try:
@@ -20,7 +21,8 @@ def write_video_content_to_file(url):
         with open(file_path, "w", encoding="utf-8") as file:
             file.write(page_content)
         
-        print(f"saved video transcript to '{file_path}'")
+        print(f"saved transcript '{title}'")
+        save_mapping(file_name,url)
     except Exception as e:
         print(f"An error occurred: {str(e)}")
 

@@ -7,7 +7,7 @@
 "- the value key 'layoutType' is always 'statistics'."
 "- the value description is the label of the figure - maximum of 5 words "
 "- the value title - maximum of 3 words "
-"- the value subtitle expands on the title - wordcount around 15 words approximately"
+"- the value subtitle expands on the title - wordcount around 200 words approximately"
 "The JSON structure should be as follows:"
 [
     {{

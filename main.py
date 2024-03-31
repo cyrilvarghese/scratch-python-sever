@@ -82,7 +82,7 @@ app.mount("/files", StaticFiles(directory="files"), name="static")
 # Define a startup event handler to call setup_chroma asynchronously
 @app.on_event("startup")
 async def startup_event():
-    await chroma_setup.setup_chroma(is_reset=True)
+    await chroma_setup.setup_chroma(is_reset=False)
 
 # Add middleware to the app
 

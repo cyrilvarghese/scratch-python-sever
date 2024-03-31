@@ -8,7 +8,7 @@ from langchain_community.embeddings import CohereEmbeddings
 from langchain.retrievers import ContextualCompressionRetriever
 from langchain_community.chat_models import ChatCohere
 from langchain.retrievers.document_compressors import CohereRerank
- 
+from modules.db import get_db
 
 embeddings = OpenAIEmbeddings(model= "text-embedding-3-large")
 # embeddings = CohereEmbeddings(model="embed-english-light-v3.0")
@@ -21,7 +21,8 @@ def get_retriever(num_of_results):
         print("---from api")
         print(collection)
         if collection:
-            persistent_client = chromadb.PersistentClient(path="chroma_db",settings=Settings(allow_reset=True))
+            # persistent_client = chromadb.PersistentClient(path="chroma_db",settings=Settings(allow_reset=True))
+            persistent_client = get_db();
             langchain_chroma= Chroma(client=persistent_client, embedding_function=embeddings,collection_name="ux-research-base")
             # retriever = langchain_chroma.as_retriever(  search_type="similarity_score_threshold", search_kwargs={"score_threshold": 0.5,"k": num_of_results})
             retriever = langchain_chroma.as_retriever( search_kwargs={"k": num_of_results})

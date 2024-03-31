@@ -454,7 +454,7 @@ Get free UX design learning material every week
 
 
 
-310,215
+310,219
                 designers
             enjoy our newsletter—sure you don’t want to receive it?
         
@@ -563,7 +563,7 @@ Get free UX design learning material every week
 
 
 
-310,215
+310,219
                 designers
             enjoy our newsletter—sure you don’t want to receive it?
         
@@ -798,7 +798,7 @@ booked
 
 Get Weekly Design Insights
 
-        Join 310,215 designers who get useful UI / UX Design tips from our newsletter.
+        Join 310,219 designers who get useful UI / UX Design tips from our newsletter.
     
 
  
@@ -872,7 +872,7 @@ Get free UX design learning material every week
 
 
 
-310,215
+310,219
                 designers
             enjoy our newsletter—sure you don’t want to receive it?
         
@@ -925,7 +925,7 @@ Get free UX design learning material every week
 
 
 
-310,215
+310,219
                 designers
             enjoy our newsletter—sure you don’t want to receive it?
         
@@ -978,7 +978,7 @@ Get free UX design learning material every week
 
 
 
-310,215
+310,219
                 designers
             enjoy our newsletter—sure you don’t want to receive it?
         
@@ -1031,7 +1031,7 @@ Get free UX design learning material every week
 
 
 
-310,215
+310,219
                 designers
             enjoy our newsletter—sure you don’t want to receive it?
         
@@ -1084,7 +1084,7 @@ Get free UX design learning material every week
 
 
 
-310,215
+310,219
                 designers
             enjoy our newsletter—sure you don’t want to receive it?
         
@@ -1567,7 +1567,7 @@ Footer navigation
 
 
 
-            With 171,469 graduates, the Interaction Design Foundation is the biggest
+            With 171,472 graduates, the Interaction Design Foundation is the biggest
             online design school globally. We were founded in 2002.
         
 
@@ -1620,7 +1620,7 @@ Facebook page
 
 Get Inspired Weekly
 
-    Join 310,215
+    Join 310,219
     designers and get
     weekly inspiration and design tips in your inbox.
 
@@ -2299,7 +2299,7 @@ Get free UX design learning material every week
 
 
 
-310,215
+310,219
                 designers
             enjoy our newsletter—sure you don’t want to receive it?
         

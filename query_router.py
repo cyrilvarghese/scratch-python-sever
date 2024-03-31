@@ -31,21 +31,50 @@ async def process_request(req_body: dict):
         relevant_docs =   retriever.get_relevant_documents(question)
         print("Relevant docs  -----", len(relevant_docs))
 
-        unique_docs, unique_contents = extract_unique_documents(relevant_docs)
-        print("unique docs  -----", len(unique_contents))
+        unique_docs, unique_content_details = extract_unique_documents(relevant_docs)
+        print("unique docs  -----", len(unique_content_details))
 
         cross_encoder = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
-        pairs = []
-        for doc in unique_contents:
-            pairs.append([question, doc])
+        # pairs = []
+        # for doc in unique_contents:
+        #     pairs.append([question, doc])
         
-        scores = cross_encoder.predict(pairs)
-        print(scores)
-        scored_docs = zip(scores, unique_contents)
-        sorted_docs = sorted(scored_docs, reverse=True)
+        # scores = cross_encoder.predict(pairs)
+        # print(scores)
+        # scored_docs = zip(scores, unique_contents)
+        # sorted_docs = sorted(scored_docs, reverse=True)
        
+        pairs = []
+        for content_detail in unique_content_details:
+            # Extract the 'page_content' for scoring
+            page_content = content_detail["page_content"]
+            pairs.append([question, page_content])
+
+        # Assume cross_encoder.predict() is a method that scores pairs of question and page_content
+        scores = cross_encoder.predict(pairs)
+
+        # Immediately after scoring, print scores with URL source for verification
+        for score, content_detail in zip(scores, unique_content_details):
+            print(f"Score: {score}, URL Source: {content_detail['url_source']}")
+
+        # Combine the scores with the corresponding content details
+        scored_content_details = zip(scores, unique_content_details)
+
+        # Sort the combined list based on scores in descending order (higher scores are better)
+        sorted_content_details = sorted(scored_content_details, reverse=True, key=lambda x: x[0])
+
+        # Print sorted scores with URL source for verification
+        print("\nSorted Scores and URL Sources:")
+        for score, content_detail in sorted_content_details:
+            print(f"Score: {score}, URL Source: {content_detail['url_source']}")
+
+
+
+
+
+
         # Extracting text from each tuple item
-        text_only_list = [item[1] for item in sorted_docs]
+        text_only_list = [item[1] for item in sorted_content_details]
        
         # text_array = [doc.page_content for doc in sorted_docs]
         return text_only_list

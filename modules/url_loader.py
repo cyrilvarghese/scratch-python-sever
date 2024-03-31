@@ -18,27 +18,13 @@ from urllib.parse import urlparse
 import json
 from urllib.parse import urlparse
 from datetime import datetime
+from modules.url_mapping import generate_filename
 
 documents = []
 splitter = RecursiveCharacterTextSplitter(chunk_size=700)
 embeddings= OpenAIEmbeddings(model="text-embedding-3-large")
 
-# The path to the JSON file that will store the mappings
-mapping_file = 'filename_url_mapping.json'
 
-def generate_filename(url):
-    path_parts = urlparse(url).path.split('/')
-    domain_parts = urlparse(url).netloc.split('.')
-    website_name = domain_parts[-2] if domain_parts[-2] else domain_parts[-3]
-    domain_extension = domain_parts[-1]
-    last_part = path_parts[-1] if path_parts[-1] else path_parts[-2]
-    formatted_date = datetime.now().strftime('%d_%m')
-    filename = f"{website_name}_{formatted_date}_{last_part}.{domain_extension}.txt"
-
-    # Save the mapping
-    save_mapping(filename, url)
-
-    return filename
 
 def extract_website_name(url):
     parsed_url = urlparse(url)
@@ -70,17 +56,18 @@ def is_youtube_url(url):
     domain = parsed_url.netloc
     return "youtube.com" in domain or "youtu.be" in domain
 
-def generate_filename(url):
-    # Extract the last part of the URL after the slash
-    path_parts = urlparse(url).path.split('/')
-    website_name = extract_website_name(url)
-    last_part = path_parts[-1] if path_parts[-1] else path_parts[-2]  # Get the last non-empty part
-    # Convert the current date and time to the specified format
-    formatted_date = datetime.now().strftime('%d_%m')
-    # Construct the filename using the extracted part and formatted date
-    filename = f"{website_name}_{formatted_date}_{last_part}.txt"
-    return filename
- 
+# def generate_filename(url):
+#     # Extract the last part of the URL after the slash
+#     path_parts = urlparse(url).path.split('/')
+#     website_name = extract_website_name(url)
+#     last_part = path_parts[-1] if path_parts[-1] else path_parts[-2]  # Get the last non-empty part
+#     # Convert the current date and time to the specified format
+#     formatted_date = datetime.now().strftime('%d_%m')
+#     # Construct the filename using the extracted part and formatted date
+#     filename = f"{website_name}_{formatted_date}_{last_part}.txt"
+#     return filename
+
+
 def web_url_to_text(urls):
     print("Processing web URLs:")
     for index, url in enumerate(urls):

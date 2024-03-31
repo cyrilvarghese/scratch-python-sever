@@ -3,6 +3,7 @@ from  dotenv import load_dotenv
 from modules.file_processor import process_files
 from modules.url_loader import web_url_to_text  # Adjust the path accordingly
 from modules.file_handler import read_data_from_file
+from modules.db import get_db
 import os
 
 def clear_processed_files():
@@ -16,10 +17,11 @@ load_dotenv()
 from chromadb.config import Settings
 async def setup_chroma(is_reset=False):
     try:    
-        persisten_client= chromadb.PersistentClient(path="chroma_db",settings=Settings(allow_reset=is_reset))
+        # persisten_client= chromadb.PersistentClient(path="chroma_db",settings=Settings(allow_reset=is_reset))
+        persistent_client = get_db();
         if is_reset:
-             print("client Reset ",persisten_client.reset());
-        collection = persisten_client.get_or_create_collection(name="ux-research-base")
+             print("client Reset ",persistent_client.reset());
+        collection = persistent_client.get_or_create_collection(name="ux-research-base")
         print("collection created with docs:",collection.count())
         if is_reset:
             urls = read_data_from_file();
