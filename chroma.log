@@ -5868,3 +5868,29 @@ exceptiongroup.ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
 [32mINFO[0m:     [30-03-2024 14:59:03] 127.0.0.1:47158 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
 [32mINFO[0m:     [30-03-2024 16:03:36] 127.0.0.1:54380 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
 [32mINFO[0m:     [30-03-2024 16:06:40] 127.0.0.1:52462 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [31-03-2024 18:12:44] Set chroma_server_nofile to 65535
+[32mINFO[0m:     [31-03-2024 18:12:44] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [31-03-2024 18:12:44] Starting component System
+[36mDEBUG[0m:    [31-03-2024 18:12:44] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [31-03-2024 18:12:44] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [31-03-2024 18:12:44] Starting component SqliteDB
+[36mDEBUG[0m:    [31-03-2024 18:12:44] Starting component QuotaEnforcer
+[36mDEBUG[0m:    [31-03-2024 18:12:44] Starting component Posthog
+[36mDEBUG[0m:    [31-03-2024 18:12:44] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [31-03-2024 18:12:44] Starting component SegmentAPI
+[32mINFO[0m:     [31-03-2024 18:12:44] Started server process [[36m93107[0m]
+[32mINFO[0m:     [31-03-2024 18:12:44] Waiting for application startup.
+[32mINFO[0m:     [31-03-2024 18:12:44] Application startup complete.
+[32mINFO[0m:     [31-03-2024 18:12:44] Uvicorn running on [1mhttp://localhost:3001[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [31-03-2024 18:15:57] Shutting down
+[32mINFO[0m:     [31-03-2024 18:15:57] Waiting for application shutdown.
+[36mDEBUG[0m:    [31-03-2024 18:15:57] Stopping component System
+[36mDEBUG[0m:    [31-03-2024 18:15:57] Stopping component SegmentAPI
+[36mDEBUG[0m:    [31-03-2024 18:15:57] Stopping component LocalSegmentManager
+[36mDEBUG[0m:    [31-03-2024 18:15:57] Stopping component Posthog
+[36mDEBUG[0m:    [31-03-2024 18:15:57] Stopping component QuotaEnforcer
+[36mDEBUG[0m:    [31-03-2024 18:15:57] Stopping component SqliteDB
+[36mDEBUG[0m:    [31-03-2024 18:15:57] Stopping component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [31-03-2024 18:15:57] Stopping component OpenTelemetryClient
+[32mINFO[0m:     [31-03-2024 18:15:57] Application shutdown complete.
+[32mINFO[0m:     [31-03-2024 18:15:57] Finished server process [[36m93107[0m]

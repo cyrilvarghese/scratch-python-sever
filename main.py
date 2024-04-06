@@ -6,29 +6,14 @@ from read_data_router import read_data_router
 from urls_router import load_url_router
 from ws_router import ws_router
 from files_router import files_router
-from modules.file_processor import process_files
-import socketio
 from fastapi.staticfiles import StaticFiles
 import chroma_setup
 from fastapi.middleware.cors import CORSMiddleware
 app = FastAPI()
-from starlette.middleware import Middleware
-from starlette.middleware.base import BaseHTTPMiddleware
-from starlette.responses import Response
 import secrets
 from modules.websocket_connections import active_websockets
 import json
-# class CustomCSPMiddleware(BaseHTTPMiddleware):
-#     async def dispatch(self, request, call_next):
-#         response = await call_next(request)
-#         csp_policy = "default-src 'self'; connect-src 'self' ws://localhost:8000;"
-#         response.headers['Content-Security-Policy'] = csp_policy
-#         return response
 
-# middleware = [
-#     Middleware(CustomCSPMiddleware),
-# ]
-# app = FastAPI(middleware=middleware)
 @app.middleware("http")
 async def add_csp_header(request: Request, call_next):
     nonce = secrets.token_urlsafe(16)  # Generate a secure nonce

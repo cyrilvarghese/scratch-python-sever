@@ -16,23 +16,6 @@ answer_router = APIRouter()
 
  
 
-# multiple_input_prompt = PromptTemplate(
-#     input_variables=["topic", "context"],
-#     template=(
-#         "You are a seasoned storyteller who understand the 3 part act of story telling."
-#         "Create a professional sounding sophiticated presentation given the topic and context.\n The presentation should have good engagement on LinkedIn and a minimum of :  \n - 3 slides \n- catchy titles "
-#         "Use the provided context delimited by triple quotes to answer questions.\n "
-#         "If the answer cannot be found in the context supplied , write I could not find an answer\n"
-#         "Return each slide as a json array of <title></title><subtitle></subtitle><body></body>\n\n\n"
-#         '"""topic\n\n\n"'
-#         '{topic}\n\n\n"'
-#         '"""\n\n\n"'
-#         '"""context-\n\n\n"'
-#         '{context}\n\n\n"'
-#         '"""'
-#     ),
-# )
-
 
 
 multiple_input_prompt = PromptTemplate(
@@ -81,51 +64,6 @@ compress_context = PromptTemplate(
     ),
 )
 
-
-# multiple_input_prompt_slides = PromptTemplate(
-#     input_variables=["topic", "context"],
-#     template=("""
-#                 "You are a seasoned storyteller who understand the 3 part act of story telling."
-#                 "Create a professional sounding sophisticated slides with a given the topic and context.\n The presentation should have good engagement on LinkedIn and a minimum of :  \n - 3 slides \n "
-#                 "If the answer cannot be found in the context supplied , write I could not find an answer\n"
-#                 "Generate a JSON-formatted list of slides with a professional tone.The presentation should have good engagement on LinkedIn and a minimum of :  \n - 3 slides and catchy titles ". \n - Ensure each silde is represented as an object within an array \n - the  value key "layout type" is always "branding"\n -The subtitle should be 100 words atleast \n. The JSON structure should be as follows:"
-#                 [
-#                     {{
-#                         "meta": {{
-#                                     "layoutType": "branding"
-#                                 }},
-#                         'title': '[Slide Title]',
-#                         'subtitle': '[Slides Subtitle]',
-                         
-                        
-#                     }},
-                    
-#                     {{
-#                         "meta": {{
-#                                     "layoutType": "branding"
-#                                 }},
-#                         'title': '[Slide Title]',
-#                         'subtitle': '[Slides Subtitle]',
-                         
-                        
-#                     }},
-                    
-#                     {{
-#                         "meta": {{
-#                                     "layoutType": "branding"
-#                                 }},
-#                         'title': '[Slide Title]',
-#                         'subtitle': '[Slides Subtitle]',
-                         
-                        
-#                     }},
-#                 ]
-
-#                 "Please adhere to this JSON structure in your response.\n \n context below \n{context}\n \n Topic below \n {topic}"
-#                 """
-
-#                 )
-# )
 
 
 

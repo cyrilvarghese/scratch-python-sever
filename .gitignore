@@ -3,3 +3,4 @@ chroma.log
 .ipynb_checkpoints
 .vscode
 __pycache__
+chroma
