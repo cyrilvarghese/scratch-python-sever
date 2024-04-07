@@ -1,44 +1,25 @@
 from fastapi import FastAPI, WebSocket,Request
-from query_router import query_router
-from answer_router import answer_router
-from upload_router import upload_router
-from read_data_router import read_data_router
-from urls_router import load_url_router
-from ws_router import ws_router
-from files_router import files_router
-from modules.file_processor import process_files
-import socketio
+from modules.query_router import query_router
+from modules.answer_router import answer_router
+from modules.upload_router import upload_router
+from modules.read_data_router import read_data_router
+from modules.urls_router import load_url_router
+from modules.ws_router import ws_router
+from modules.files_router import files_router
+from modules.qq_LLM_router import qq_LLM_router
+from sqlite_apis.tags_router import tags_router
+from sqlite_apis.projects_router import projects_router
+from sqlite_apis.jobs_router import jobs_router
+
+
 from fastapi.staticfiles import StaticFiles
 import chroma_setup
 from fastapi.middleware.cors import CORSMiddleware
 app = FastAPI()
-from starlette.middleware import Middleware
-from starlette.middleware.base import BaseHTTPMiddleware
-from starlette.responses import Response
 import secrets
 from modules.websocket_connections import active_websockets
 import json
-# class CustomCSPMiddleware(BaseHTTPMiddleware):
-#     async def dispatch(self, request, call_next):
-#         response = await call_next(request)
-#         csp_policy = "default-src 'self'; connect-src 'self' ws://localhost:8000;"
-#         response.headers['Content-Security-Policy'] = csp_policy
-#         return response
 
-# middleware = [
-#     Middleware(CustomCSPMiddleware),
-# ]
-# app = FastAPI(middleware=middleware)
-@app.middleware("http")
-async def add_csp_header(request: Request, call_next):
-    nonce = secrets.token_urlsafe(16)  # Generate a secure nonce
-    response = await call_next(request)
-    # Add CSP header with nonce
-    csp_policy = f"script-src 'nonce-{nonce}';"
-    response.headers['Content-Security-Policy'] = csp_policy
-    # You might need to adjust response handling for your use case
-    return response
- 
  
 
 @app.websocket("/ws")
@@ -77,6 +58,10 @@ app.include_router(files_router, prefix="/api/files")
 app.include_router(read_data_router, prefix="/api/read-data")
 app.include_router(load_url_router, prefix="/api/load-urls")
 app.include_router(ws_router, prefix="/api/websockets")
+app.include_router(tags_router, prefix="/api/data")
+app.include_router(qq_LLM_router, prefix="/api/data")
+app.include_router(projects_router, prefix="/api/projects")
+app.include_router(jobs_router, prefix="/api/jobs")
  
 app.mount("/files", StaticFiles(directory="files"), name="static")
 # Define a startup event handler to call setup_chroma asynchronously
