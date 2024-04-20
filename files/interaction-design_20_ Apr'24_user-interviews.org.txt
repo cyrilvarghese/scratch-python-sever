@@ -1,0 +1,2317 @@
+
+
+
+
+
+What are User Interviews? — updated 2024 | IxDF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reviews / Why join our community?
+For companies
+Frequently asked questions
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UX Courses
+        
+
+
+Master Classes
+        
+
+
+Community
+        
+
+
+Literature
+        
+
+
+Blog
+        
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+            Log in
+        
+
+
+
+Join our community
+Join us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Please upgrade your browser
+            as it’s outdated. You’ll reduce security risks and help make the internet better.
+        
+
+            Your browser is outdated—upgrade it now.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open menu
+
+
+
+
+
+Close menu
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+                        Join us
+                    
+
+
+
+
+
+
+
+
+
+
+
+UX Courses
+        
+
+
+Master Classes
+        
+
+
+Community
+        
+
+
+Literature
+        
+
+
+Blog
+        
+
+
+
+
+
+
+Search
+
+
+
+
+Log in
+
+
+Reviews / Why join our community?
+For companies
+Frequently asked questions
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Literature
+
+
+Topics
+
+User Interviews
+
+
+
+
+                User Interviews
+                            
+
+                Your constantly-updated definition of User Interviews and
+                collection of videos and articles
+            
+
+
+
+618
+shares
+
+
+
+
+Share this page
+
+
+
+
+
+Cite this page
+
+
+
+
+
+
+
+
+
+
+
+
+            Cite this page
+        
+
+
+
+
+
+
+What are User Interviews?
+
+User interviews are a qualitative research method where researchers engage in a dialogue with participants to understand their mental models, motivations, pain points, and latent needs.“To find ideas, find problems, to find problems, talk to people.”– Julie Zhou, former VP, Product Design at Facebook, author of The Making of a ManagerResearch is the initial step in the design process. It helps you understand what your user feels, wants, and appreciates. It also helps gain insights for future designs and identify the pain points in the current solution. User interviews will help you structure your design process and deliver optimized solutions that will resonate with the users.User Interviews: What and How?Design teams typically perform user interviews with the potential users of a design as part of the empathize phase of the design thinking process. User interviews follow a structured methodology whereby the interviewer prepares several topics to cover, records what is said, and systematically analyzes the conversation after the interview.User interviews are one of the most commonly used methods in user research. They can cover almost all user-related topics and be used, for example, to gather information on users’ feelings, motivations, daily routines, or how they use various products.The interviews often follow the same methodology as qualitative interviews in other fields but with the specific purpose of informing a design project. Because user interviews typically have to fit into a design or development process, practical concerns such as limited time or resources often play a role when deciding how to conduct such interviews. For instance, user interviews can be conducted over a video or voice call if time is restricted. On the other hand, in projects with sufficient time and resources, researchers can perform the interview in the user’s home, and designers might even be flown overseas if the users reside in another country.While many interview methods used in design projects are borrowed from other fields, such as ethnography and psychology, some have been created specifically for use in design contexts. An example is contextual interviews in the participant’s everyday environment. Contextual interviews can provide more insights about the environment in which a design will be used. As such, a contextual interview might uncover flaws within a product’s design (e.g., the product is too heavy to be carried around the house by the user) that a typical user interview might notUser interviews can be used in different stages of product development, from discovery to usability testing. Conducting a user interview is simply a question of choosing the right user or users to interview, asking them pre-determined questions (or free-form questions if used following an observation), and then reporting on their answers to enable further decision-making.Ann Blandford, Professor of Human-Computer Interaction at University College London, emphasizes the need to keep an open mind when approaching a user interview. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Show
+Hide
+                    video transcript 
+
+
+
+
+
+Transcript loading…
+
+
+
+
+
+8 Types of User InterviewsUser Interviews are of 8 different types such as structured, unstructured, contextual, and group, to name a few.   © Interaction Design Foundation, CC BY-SA 4.0User interviews are a versatile and indispensable design research tool, serving as a gateway to invaluable insights that shape user-centric solutions. Depending on your goals and who the interview participants are, we can classify user interviews into eight categories.1. Structured InterviewsStructured interviews adhere to a meticulously planned set of questions, providing a systematic approach to information gathering. This type is characterized by its rigidity, ensuring a standardized process that facilitates easy participant comparison. Designers opt for structured interviews when seeking specific, targeted information. These interviews require an organized means of collecting quantitative data.2. Unstructured InterviewsIn contrast, unstructured interviews embrace a more open-ended and flexible approach. Participants are encouraged to express themselves freely, leading to a qualitative exploration of their thoughts and experiences. This type is favored when the goal is to uncover niche insights that may not emerge through predefined questions. This allows for a deeper understanding of user perspectives and motivations.3. Semi-Structured InterviewsSemi-structured interviews balance the rigidity of structured interviews and the flexibility of unstructured ones. Designers prepare a set of predetermined questions but allow room for participants to elaborate on their responses. This format combines the benefits of both worlds, offering depth and consistency while accommodating the richness of qualitative data.Here’s Ann Blandford with more on semi-structured interviews and how they differ from structured and unstructured ones.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Show
+Hide
+                    video transcript 
+
+
+
+
+
+Transcript loading…
+
+
+
+
+
+4. Contextual InterviewsContextual interviews unfold in the user’s natural environment, providing a unique perspective on how they interact with products in their day-to-day lives. This type ventures beyond the controlled setting, uncovering insights that might be missed in a traditional interview setup. Observing users in their context allows designers to identify specific pain points, preferences, and behaviors that influence the user experience in a real-world scenario.5. Expert InterviewsExpert interviews involve engaging with individuals possessing specialized knowledge or experience relevant to the design context. These individuals could be industry experts or professionals with specific domain expertise. Their insights contribute a layer of knowledge to the design process. These interviews help refine solutions with experienced perspectives that are not apparent through user interviews alone.6. Remote InterviewsIn the era of digital connectivity, remote interviews overcome geographical constraints. They leverage technology to facilitate conversations between designers and participants.This type is particularly convenient when engaging with users located in different regions. Remote interviews ensure accessibility and flexibility, allowing designers to gather insights without the limitations of physical proximity.7. Group InterviewsGroup interviews involve the simultaneous participation of multiple individuals, fostering dynamic interactions. This format encourages participants to build on each other's responses, unveiling shared experiences and diverse perspectives within the group. Group interviews are beneficial when exploring collective opinions and group dynamics or seeking insights into how individuals influence each other's perspectives.8. Stakeholder InterviewsStakeholder interviews extend beyond end users to include individuals with a vested interest in the project's success. These could be internal stakeholders, decision-makers, or individuals representing different organizational departments. Engaging with stakeholders ensures alignment between design goals and broader organizational objectives. This also helps foster a holistic approach that considers the overall impact of the design solution.Understanding the applications of these eight types of user interviews empowers designers to strategically choose the most fitting approach based on project goals and the specific information sought. Each type brings a unique flavor to the user research process and contributes to creating designs that resonate with user needs and expectations.
+
+Get your free template for “How to Structure a User Interview”
+
+
+
+
+
+
+
+ 
+
+
+
+Secure form
+
+
+Name
+
+Please provide your name.
+
+
+Email
+
+We respect your privacy
+Please provide a valid email address.
+
+
+
+
+Get free UX design learning material every week
+
+
+
+
+310,463
+                designers
+            enjoy our newsletter—sure you don’t want to receive it?
+        
+
+
+
+
+                    Download free template
+                
+
+                    Download free template
+                
+
+
+
+
+
+Common Mistakes to Avoid During a User InterviewPractices like Leading Questions, Biased Language, Lack of Empathy, etc. should be avoided during a User Interview© Interaction Design Foundation, CC BY-SA 4.0User interviews are powerful for extracting meaningful insights, but their success depends on careful planning and execution. To ensure a fruitful user research process, designers must navigate potential hindrances that could compromise the authenticity and depth of the gathered information.1. Leading QuestionsAvoid steering participants toward specific responses with leading questions. Instead, try to craft questions that are neutral and open-ended. This encourages genuine and unbiased insights. Leading questions can unknowingly influence participants, compromising the integrity of the data collected.2. Biased LanguageBe vigilant about using language that may introduce bias into the interview. Phrasing questions in a way that favors a particular response can distort the authenticity of participants' answers. Designers should aim for neutrality and clarity to ensure participants feel comfortable expressing their thoughts.3. Overloading with InformationResist the temptation to overwhelm participants with excessive information before or during the interview. Providing too much context leads participants to tailor their responses based on what they think the interviewer wants to hear. In contrast, user interviews aim to make participants express their natural thoughts and experiences.4. Lack of EmpathyBuild rapport and create a comfortable environment in a user interview. Refrain from rushing through questions without allowing participants the space to share their thoughts. Acknowledge their experiences and be genuinely interested in their perspective to foster open communication.Ann Blandford offers practical tips on how to build rapport with interviewees through the structure of questions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Show
+Hide
+                    video transcript 
+
+
+
+
+
+Transcript loading…
+
+
+
+
+
+5. Assuming User KnowledgeSteer clear of assumptions regarding the user's knowledge or familiarity with the product or topic. Clarify terms, avoid industry jargon, and ensure that participants fully understand the context are some of the key pointers. This prevents misunderstandings that could impact the accuracy of their feedback.6. Dominating the ConversationIt is vital to balance guiding the conversation and allowing participants to express themselves freely. Avoid dominating the dialogue or interrupting excessively. You should create an environment where participants feel valued, listened to, and are encouraged to share their experiences without interruption.7. Not Exploring ContradictionsExplore contradictions or inconsistencies in participants' responses with appropriate sensitivity. There may be occasions where people contradict their statements. These variations can offer valuable insights into the complexity of user experiences. However, when you question them on such discrepancies, they might get defensive or uncomfortable. Approach these contradictions carefully and delve deeper to uncover the nuances that might not be immediately apparent.8. Neglecting Non-Verbal CuesUser interviews extend beyond verbal communication. Pay attention to non-verbal cues such as body language, facial expressions, and tone of voice. Neglecting these cues may result in overlooking subtle yet significant indicators of a participant's sentiments or attitudes.9. Ignoring Contextual FactorsAvoid separating user insights from their broader context. Consider external factors influencing participants' responses, such as cultural differences or situational circumstances. It is crucial to account for these factors to avoid misinterpretations and incomplete understandings of the user experience.10. Skipping Post-Interview ReflectionAfter the interview, resist the urge to immediately move on to the next task. Take time for post-interview reflection to analyze the gathered data, identify patterns, and uncover more profound insights. Skipping this critical step may result in overlooking key findings and hinder the overall impact of the user interview process. In this next video, Ann Blandford shares some precautions to consider during the analysis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Show
+Hide
+                    video transcript 
+
+
+
+
+
+Transcript loading…
+
+
+
+
+
+By removing these pitfalls, designers can elevate the quality of user interviews. This will ensure the data collected is authentic, unbiased, and representative of the user's experiences.User Interview AlternativesWhile user interviews are a go-to method in user research, time or budgetary constraints may make it difficult to conduct interviews. Here are some other research methods to consider under such circumstances.Methods like Focus Groups, Usability Tests etc, can be tried as an alternative to User Interview.© Interaction Design Foundation, CC BY-SA 4.01. Focus GroupsFocus groups offer a dynamic alternative to one-on-one interviews. Bringing together a small group of participants fosters group dynamics, allowing researchers to observe interactions and gather collective insights. This method is particularly effective for exploring diverse perspectives, uncovering shared experiences, and understanding group dynamics that might not surface in individual interviews. Remember that your designs will be used by multiple users different from one another.2. Usability Testing and PrototypesUsability testing involves evaluating the effectiveness of a product's interface through real-time user interaction. This alternative method employs prototypes or actual product versions, allowing researchers to observe users navigating the system. Usability testing provides insights into user interactions, pain points, and preferences in a controlled environment. By incorporating prototypes, designers can assess the functionality of specific features, ensuring a user-friendly design. This method is especially valuable for refining the user experience iteratively, based on direct user feedback, ultimately leading to more robust and user-centric design solutions.3. In-Person ObservationIn-person observation involves directly witnessing users' behaviors and actions in their natural environment. By immersing researchers in the users' context, this method unveils nuances that may be missed in a controlled setting. The in-person approach provides a holistic understanding of how users integrate products or services into their daily lives. Designers should conduct the observation without external influence on the subject user’s behavior.4. Market ResearchMarket research extends the scope beyond individual user experiences to broader market trends and preferences. This alternative leverages quantitative data, surveys, and statistical analysis to uncover patterns at a larger scale. Market research complements user interviews by providing a macro-level understanding that informs strategic decisions and market positioning.Discovery research focuses on the initial exploration of a problem space or a new product idea. It involves gathering insights from various sources, including user interviews, surveys, and secondary research. By combining diverse methods, discovery research lays the foundation for understanding the landscape before diving into more targeted investigations.Rather than relying solely on one method, integrate various user research methods to understand user needs comprehensively. You can get insights from different angles by combining interviews, usability testing, and surveys.This eventually results in more informed and user-centric design decisions.Learn More about User InterviewsTake the IxDF course User Research – Methods and Best Practices to learn more about interviews and other qualitative research methods.For a concise overview of user interviews, watch How To Conduct Effective User Interviews, a Master Class webinar with Joshua Seiden, Co-Author of Lean UX and Founder of Seiden Consulting.User interviews for UX research: Refer to this article to learn how User interviews are incorporated into UX research.User Interviews 101: Learn about all the do’s and don’ts of User Interviews.To learn how to make sense of all the qualitative data, see How to Do a Thematic Analysis of User Interviews.
+
+Get your free template for “How to Conduct an Interview with Empathy”
+
+
+
+
+
+
+
+ 
+
+
+
+Secure form
+
+
+Name
+
+Please provide your name.
+
+
+Email
+
+We respect your privacy
+Please provide a valid email address.
+
+
+
+
+Get free UX design learning material every week
+
+
+
+
+310,463
+                designers
+            enjoy our newsletter—sure you don’t want to receive it?
+        
+
+
+
+
+                    Download free template
+                
+
+                    Download free template
+                
+
+
+
+
+
+
+
+
+
+Questions related to User Interviews
+
+
+
+
+
+                What are the basic steps that lead to a successful outcome from a research interview?
+
+
+
+
+
+
+
+
+Successful research interviews hinge on a systematic approach. The basic steps include defining clear research objectives, selecting appropriate participants, crafting well-structured and open-ended questions, ensuring a comfortable environment, actively listening to participants, documenting findings accurately, and conducting thoughtful follow-up analysis. These steps collectively contribute to the success of a research interview. They foster genuine engagement, extract meaningful insights, and lay the groundwork for informed design decisions. Designers should also carefully consider selecting the research methodology that best suits their objectives. Selection of the sample groups to conduct the interviews is also vital to maintain the research context.Watch this video to learn about the interview analysis process.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Show
+Hide
+                    video transcript 
+
+
+
+
+
+Transcript loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+                What is a focus framework for user interviews?
+
+
+
+
+
+
+
+
+A user interview focus framework is a practical plan that ensures we create things people genuinely need. It aligns with the idea that people don't just buy products; they buy solutions to their problems. This framework consists of five straightforward steps: find the right people looking for a solution, share your idea with them, check if they're willing to pay, make sure your solution works, and, if successful, grow and automate. It's a smart way to use user interviews to build things that truly solve real problems.
+
+
+
+
+
+
+
+                How do you conduct user interviews?
+
+
+
+
+
+
+
+
+Conducting user interviews involves a systematic approach. Begin by defining clear research objectives and identifying the target audience. Craft open-ended questions to encourage participants to share their experiences openly. The next step is to choose a suitable interview format. Depending on the research goals, it could be structured, unstructured, or semi-structured. Ensure a comfortable environment for participants, whether in-person or remote. Listen to responses, ask follow-up questions for depth, and document findings meticulously. Post-interview, analyze the data, identify patterns and iterate the design process based on the insights gathered. By following this structured approach, you can conduct an insightful user interview.
+
+
+
+
+
+
+
+                How many user interviews do you need?
+
+
+
+
+
+
+
+
+The number of user interviews needed depends on the research goals and the project’s complexity. While there's no one-size-fits-all answer, a common rule of thumb is to conduct at least five to eight interviews per user segment. This typically uncovers recurring patterns and provides a solid foundation for decision-making. However, the ideal number may vary based on the project's scope, the diversity of the user base, and the level of detail required. Iterative testing and continuous feedback loops may prompt additional interviews as the design evolves. If you continuously upgrade your designs based on your research insights, consider conducting another round of interviews after every significant update.
+
+
+
+
+
+
+
+                Are user interviews safe to use?
+            
+
+
+
+
+
+
+
+User interviews are generally safe when conducted ethically and with the well-being of participants in mind. Researchers should prioritize informed consent, clearly communicate the purpose of the interview, and ensure participants' anonymity when necessary. Protect sensitive information and adhere to data privacy regulations. Remote interviews should be conducted on secure platforms, and any incentives offered should be reasonable and ethical. By following ethical guidelines, user interviews can provide valuable insights while respecting participants' rights and privacy. Questions asked in the interviews should be carefully curated to avoid hurting any participant’s personal, emotional, or cultural sentiments. After considering the above factors, user interviews can be safely used for design research.
+
+
+
+
+
+
+
+                Why choose user interviews? 
+
+
+
+
+
+
+
+
+User interviews offer a personalized and in-depth understanding of user experiences, allowing designers to uncover insights beyond quantitative data. They facilitate empathy by connecting directly with users, leading to more human-centered designs. The qualitative nature of user interviews is invaluable for exploring motivations, pain points, and emotions. Additionally, the adaptability of user interviews, whether in-person or remote and their ability to uncover contextual insights make them a versatile tool for various stages of the design process. User interviews can be used in multiple types and areas of research design. Choosing user interviews empowers designers to create solutions that authentically resonate with user needs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Show
+Hide
+                    video transcript 
+
+
+
+
+
+Transcript loading…
+
+
+
+
+
+Watch this video to learn about the pros and cons of user interviews.
+
+
+
+
+
+
+
+
+
+
+
+User Research – Methods and Best Practices
+
+
+
+
+
+
+User Research – Methods and Best Practices
+    
+
+
+
+
+Closes in
+
+
+
+4
+days
+
+
+
+
+
+
+
+
+
+
+
+
+booked
+
+
+
+
+
+
+                View Course
+                
+
+
+
+
+
+
+
+
+Get Weekly Design Insights
+
+        Join 310,463 designers who get useful UI / UX Design tips from our newsletter.
+    
+
+ 
+
+
+A valid email address is required.
+
+
+
+
+                Go
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Literature on User Interviews
+                
+
+                    Here’s the entire UX literature on
+                    User Interviews by
+                    the Interaction Design Foundation, collated in one place:
+                
+
+Featured article
+
+How to Conduct User Interviews
+
+
+
+You may have noticed in life that few (if any!) people think like you do. So there’s absolutely no reason for you to think your users think like you either! You need to go out and meet your users if you want to properly understand and design for them, and user interviews are a great way to achieve this. They enable you to extract information about the user experience and usability of your product or service, and will also help you ideate for further solutions. All in all, user interviews are a great way to get to know your users... but is your company actually conducting them and, if so, in an effective way? Read on and learn not only how to prepare for and conduct user interviews but how to report on them too.“Stories are where the richest insights lie, and your objective is to get to this point in every interview.”—Steve PortigalDesigners experience a constant internal battle between the temptation to design for themselves and the knowledge they should design for their users instead. Experienced designers will tell you a good mantra to follow throughout your design work is to understand your audience and design with them in mind. Whatever you do, don’t make assumptions about your users—that will lead you down a dangerous path!You need to understand what your users’ goals are, what their needs are, and how they think and feel—as well as how all that differs from your perception of the context at hand. This will enable you to make objective decisions about how to take the design process further so it is truly centered around your users, and what delights and engages them. What’s good to know is there are many research techniques you can employ to achieve a deep understanding of your users, and a key one of those is user interviews.What is a User Interview?User interviews are guided interviews where a researcher asks existing or potential users questions to gain an understanding of their preferences, thoughts and feelings. User interviews can be used to examine the user experience and usability of a product or service, as well as flesh out demographic or ethnographic data for input into user personas.The ideal user interview involves two UX researchers and one user. The first UX researcher asks questions and guides the interviewee through the interview, and the second researcher takes notes. If you’ve ever tried to ask questions, listen to responses and take notes all at the same time, you’ll know how hard it is to do all three! There’s a good chance the interview will be derailed and become hard to manage. If a second researcher is, however, unavailable and you have to go it alone, make sure to video or audio record the interview to ensure you don’t lose any information.It’s important to have a second researcher when you conduct user interviews as they can then be the one to take notes. There are three types of notes you can take, however it is descriptive notes that are most important and relevant to user interviews.© Danzico, Fair-Use.Typical topics covered within user interviews include:The background of the user (ethnographic data, for example)The use of related technologyHow the user uses the productThe user’s main objectives and motivations to use the productThe user’s pain points with the productHowever, please don’t feel limited to these topics alone! If there’s something you need to know, and can find the answers by asking your users, make sure to include a few questions about it (as long as it’s not offensive or threatening of course!).There is also a special type of user interview known as the contextual interview. This is an interview that is conducted after (or during) a user observation—it’s an interview “in context” with usage. You’ll find these are very common in usability testing, the assessment of products and even in information visualization.It’s important to have two interviewers when you conduct user interviews—one to focus on the questions and responses, and one to take notes. Regardless, you should also record the interview so you can look back over the footage to analyze it even further.© gdsteam, CC BY 2.0.When Should You Conduct User Interviews?User interviews can be utilized at several points in the design process and, each time, they will provide key insights to ensure your project stays on track and remains user-centered. You should conduct user interviews:At the beginning of a project, even before you’ve defined a clear concept. The information you collect during these initial user interviews will help you get a better understanding of your potential users, their wants and needs and what kind of solution you should aim for. The insights you gather will also help you develop your user personas and journey maps, as well as aspects of the product, such as features and workflows.During the early stages of product development. Once you have an early prototype, you can conduct usability tests with your users to gain valuable feedback before the product gets properly implemented and mass produced. You should round up the observation part of the usability tests with user interviews. This will help you better understand users’ behaviors, how they perceive the product and any frustrations they face.After the product has been put to market. Just because your product has been shipped, it doesn’t mean the user interviews have to stop! You should continue to conduct user observations and interviews (otherwise known as contextual inquiries) to give users even more of an opportunity to show you how they interact with your product.3 Key Steps to Prepare for User Interviews“Failing to prepare is preparing to fail.”—John WoodenPreparation is vital if you want your user interviews to generate useful and meaningful insights. There are three key steps you can follow to adequately prepare yourself, and they are as follows.1. Set a Goal for Your InterviewsYou need to form a concise, concrete goal for your user interviews—one that’s related to a specific aspect of your users’ behaviors or motivations is ideal. You should ask product stakeholders what they want to learn and base your goal on one of their realistic aspirations. Remember, don’t go too broad otherwise your interviews will generate too much irrelevant material. Keep your design needs in mind at all times!2. Recruit the Right ParticipantsOnce you’ve set a goal, you can move on to recruit participants for the interview. You’ll want to ensure you recruit a representative sample of users for your interviews, so you should start with your user personas and try to find interview participants that match them. If you have multiple user personas, now is the time to decide whether you want to focus on one particular group of users or several.You can use various methods to source participants, including:Personal connectionsFormer or current customersGuerrilla or street interviewsPaid intervieweesYou don’t need to go overboard when it comes to the number of people you recruit. There are no rules set in stone, but we recommend you start off with 5-7 participants and if by that point you’re not getting any new insights, you can leave it there.When you schedule your interviews, pick a location that’s convenient and comfortable for both your participants and your team. Will a certain context help, for example? If the participants have certain items around them, would that help the interview? Also note that it’s a good idea to leave 30 minutes or so between each one. This will give you time to make additional notes and compile your thoughts before you move onto the next participant (you don’t want to get everything jumbled up in your mind!).Your user personas are a great place to start when you want to decide which participants to recruit for your user interviews. If you have identified multiple personas, you’ll need to decide whether to stick to one or try to cover them all.© Travis Isaacs, CC BY 2.0.3. Write a Set of Interview QuestionsNow you’ve got your interviews in the diary, it’s time to create a set of questions to ask your participants. Some tips to help you do so include:Before you even start with your questions, script an explanation of the purpose behind the interview—what are you trying to achieve? In this introduction, also explain how the participants’ data and insights will be used.Keep leading questions to a minimum—focus on open-ended questions, and leave out the closed-ended questions wherever possible. It’s much better to ask “Can you describe to me how you use instant messaging?” than “How often do you use Snapchat?”, for example. The former lets you explore what the user actually does whereas the latter presupposes the user uses Snapchat, and that this is the extent of their instant messaging activity. For more information on how and why to use open-ended questions, please see our free template: 
+
+Get your free template for “How to Ask Open-Ended Questions”
+
+
+
+
+
+
+
+ 
+
+
+
+Secure form
+
+
+Name
+
+Please provide your name.
+
+
+Email
+
+We respect your privacy
+Please provide a valid email address.
+
+
+
+
+Get free UX design learning material every week
+
+
+
+
+310,463
+                designers
+            enjoy our newsletter—sure you don’t want to receive it?
+        
+
+
+
+
+                    Download free template
+                
+
+                    Download free template
+                
+
+
+
+
+
+Prepare more questions than you think you’ll need. Make sure you include questions that allow you to approach the same issue from different angles yet also bear in mind the interviewee should be the person who talks for the majority of the interview (not you). It’s also good practice to start with the easy, less intrusive questions and build up to the more complex and thought-provoking ones—ease your participant into it in other words!Anticipate different responses and create follow-up based questions based on your research goals.Don’t forget your questions are a guide, not a script. If you find your interviewee says something particularly interesting in an interview and there are no relevant questions to explore that idea… explore it anyway. Amend your set of questions based on this in case something similar gets brought up in future interviews.You can learn more about how best to create your interview questions in our Interview Guide templates:
+
+Get your free template for “How to Structure a User Interview”
+
+
+
+
+
+
+
+ 
+
+
+
+Secure form
+
+
+Name
+
+Please provide your name.
+
+
+Email
+
+We respect your privacy
+Please provide a valid email address.
+
+
+
+
+Get free UX design learning material every week
+
+
+
+
+310,463
+                designers
+            enjoy our newsletter—sure you don’t want to receive it?
+        
+
+
+
+
+                    Download free template
+                
+
+                    Download free template
+                
+
+
+
+
+
+
+
+Get your free template for “Interview Guide”
+
+
+
+
+
+
+
+ 
+
+
+
+Secure form
+
+
+Name
+
+Please provide your name.
+
+
+Email
+
+We respect your privacy
+Please provide a valid email address.
+
+
+
+
+Get free UX design learning material every week
+
+
+
+
+310,463
+                designers
+            enjoy our newsletter—sure you don’t want to receive it?
+        
+
+
+
+
+                    Download free template
+                
+
+                    Download free template
+                
+
+
+
+
+
+How to Conduct a User InterviewIf you want to conduct an effective user interview, you’ll need to build a rapport with your interviewee and keep an eye on your body language, among other things! This video runs through key tips and tricks to ensure you’ve got your user interview technique on point.If you want to add even more empathy into your user interviews, check out the following template:
+
+Get your free template for “How to Conduct an Interview with Empathy”
+
+
+
+
+
+
+
+ 
+
+
+
+Secure form
+
+
+Name
+
+Please provide your name.
+
+
+Email
+
+We respect your privacy
+Please provide a valid email address.
+
+
+
+
+Get free UX design learning material every week
+
+
+
+
+310,463
+                designers
+            enjoy our newsletter—sure you don’t want to receive it?
+        
+
+
+
+
+                    Download free template
+                
+
+                    Download free template
+                
+
+
+
+
+
+How to Report on a Series of User InterviewsNow your user interview is complete, it’s time to report on all the qualitative data you have collected. It can be a challenge to compile the results of several interviews, and techniques such as word clouds and mind maps are two good ways to present qualitative data in an interesting but easy-to-understand format.To dig into your interview findings a little further, we recommend you follow the steps of a ‘thematic analysis’. This fancy sounding term means identifying, analyzing and interpreting patterns in data. What you heard in your user interviews is data, even though it may not seem like it!Familiarize yourself with your data. Listen to your recordings and either transcribe or take lots of notes.Generate initial codes. When you encounter a particularly interesting comment or section of the recording, create a descriptor code for it – e.g., “comparing products”. Apply the same code to other comments which you think belong in the same category, and create new codes for aspects that haven’t been discussed before. When you’ve coded all the key sections of your interviews, collate all the interview extracts so they fit into groups under each descriptor code.Search for patterns or themes in your codes across the different interviews. This is an iterative process where you can move codes around multiple times to form different themes. A good tip is to write your codes on sticky notes to make it easier to move them around and get a better overview.Review and refine the themes. Read through all the interview extracts in each theme and consider if there is clear coherence inside each one, and also a clear difference between themes. Combine themes you find too similar and split up themes that don’t cohere meaningfully. When you think all your themes work, take a step back and consider if your themes cover what’s most interesting in your data, or if anything is missing. Add and remove themes in an iterative fashion until you’re satisfied your themes suitably represent the insights from your interviews.Define and name themes. Look at each of your themes. Define what the theme is about and give it an appropriate name.You can download more detailed advice about how to conduct thematic analysis in our template:
+
+Get your free template for “Steps in a Thematic Analysis”
+
+
+
+
+
+
+
+ 
+
+
+
+Secure form
+
+
+Name
+
+Please provide your name.
+
+
+Email
+
+We respect your privacy
+Please provide a valid email address.
+
+
+
+
+Get free UX design learning material every week
+
+
+
+
+310,463
+                designers
+            enjoy our newsletter—sure you don’t want to receive it?
+        
+
+
+
+
+                    Download free template
+                
+
+                    Download free template
+                
+
+
+
+
+
+Once you’ve identified the themes in your data, you can translate the findings into a more formal written or visual report—something you’d be happy to show your manager or client.The Drawbacks of User InterviewsHopefully you now feel fully prepared to go and conduct some effective user interviews! Before you dive in however, you need to take a look at some of the drawbacks of user interviews to ensure you have a well-rounded mindset and approach to the process.There’s a difference between what humans say and what they actually do. Even if they are contextual, interviews tend to give insights into what people say they will do and this is sometimes (often, even) not the same as what they actually do. This is why the 5 whys method is so crucial and can help you get more accurate insights.Human memory is flawed and we can often struggle to recall details as clearly as we would like. Unfortunately, it’s a human tendency to try and create these details (this is not even a conscious process) to tell a story the way we think something happened, rather than how it happened. Ask the same questions in multiple ways to try and overcome this and help you spot discrepancies in the data.Participants often leave out small details because they deem them insignificant. Make sure you repeat how important such details are for the purpose of your project and keep asking them “Why” to uncover more details about what they did and why.It’s important to keep these drawbacks in mind when you design your interview questions and execute the user interview. You should also take them into account when you evaluate a set of user interviews—interview data gives you a starting point to examine problems but rarely provides a finishing point which delivers 100% certainty as to what to do next. As the designer, that decision will be up to you!The Take AwayUser interviews are guided interviews where a researcher asks existing or potential users questions to gain an understanding of their preferences, thoughts and feelings. They are a great opportunity to meet your users, understand and start to design for them.As with most things in life, preparation is key! You need to set a goal for your interviews, recruit the right participants and write a set of interview questions if you want to have any chance of getting valuable insights from your participants.When it comes to conducting the interview itself, it's important to build a rapport with your participants, explain the purpose of the interview, ask open-ended questions and make sure your body language keeps interviewees at ease throughout.Thematic analysis is the best way to analyze your interview data and will help you discover the key insights that your manager and client will be interested in.References & Where to Learn MoreCourse: User Research – Methods and Best PracticesMalte Windwehr, Know Thy User: The Seven Research Commandments, 2018Kara Pernice, User Interviews: How, When, and Why to Conduct Them, 2018AltexSoft, How to Conduct User Interviews for UX Research and Product Development, 2019Chuck Liu, Never Ask What They Want — 3 Better Questions to Ask in User Interviews, 2014Steve Portigal, Interviewing Users: How to Uncover Compelling Insights, 2013ImagesHero Image: © David Davies, CC BY-SA 2.0.
+
+
+
+
+                    Show full article
+                    
+
+
+
+
+                    Hide full article
+                    
+
+
+
+
+
+
+
+
+
+
+Learn more about User Interviews
+
+
+
+                                Take a deep dive into User Interviews with
+                                our course
+
+                                
+                                    User Research – Methods and Best Practices
+                                .
+                            
+How do you plan to design a product or service that your users will love, if you don't know what they want in the first place? As a user experience designer, you shouldn't leave it to chance to design something outstanding; you should make the effort to understand your users and build on that knowledge from the outset. User research is the way to do this, and it can therefore be thought of as the largest part of user experience design.In fact, user research is often the first step of a UX design process—after all, you cannot begin to design a product or service without first understanding what your users want! As you gain the skills required, and learn about the best practices in user research, you’ll get first-hand knowledge of your users and be able to design the optimal product—one that’s truly relevant for your users and, subsequently, outperforms your competitors’.This course will give you insights into the most essential qualitative research methods around and will teach you how to put them into practice in your design work. You’ll also have the opportunity to embark on three practical projects where you can apply what you’ve learned to carry out user research in the real world. You’ll learn details about how to plan user research projects and fit them into your own work processes in a way that maximizes the impact your research can have on your designs. On top of that, you’ll gain practice with different methods that will help you analyze the results of your research and communicate your findings to your clients and stakeholders—workshops, user journeys and personas, just to name a few!By the end of the course, you’ll have not only a Course Certificate but also three case studies to add to your portfolio. And remember, a portfolio with engaging case studies is invaluable if you are looking to break into a career in UX design or user research!We believe you should learn from the best, so we’ve gathered a team of experts to help teach this course alongside our own course instructors. That means you’ll meet a new instructor in each of the lessons on research methods who is an expert in their field—we hope you enjoy what they have in store for you!
+
+
+
+
+User Research – Methods and Best Practices
+
+
+
+
+
+
+User Research – Methods and Best Practices
+    
+
+
+
+
+Closes in
+
+
+
+4
+days
+
+
+
+
+
+
+
+
+
+
+
+
+booked
+
+
+
+
+
+
+                View Course
+                
+
+
+
+
+
+
+
+
+
+
+
+                    All open-source articles on User Interviews
+                
+
+
+
+Order by:
+
+
+                                Most shared in this topic
+                            
+
+                                Latest UX literature in this topic
+                            
+
+Please check the value and try again.
+
+
+
+
+
+
+How to Do a Thematic Analysis of User Interviews
+
+
+
+
+How to Do a Thematic Analysis of User Interviews
+
+
+You have been in the field talking to users and you now find yourself with a massive amount of audio, notes, video, pict
+
+
+
+
+
+            1.2k shares
+        
+
+
+
+
+            3 years ago
+        
+
+
+
+
+
+                    Read article
+                    
+
+
+
+
+
+
+
+
+
+How to Conduct User Interviews
+
+
+
+
+How to Conduct User Interviews
+
+
+You may have noticed in life that few (if any!) people think like you do. So there’s absolutely no reason for you to thi
+
+
+
+
+
+            1.2k shares
+        
+
+
+
+
+            1 year ago
+        
+
+
+
+
+
+                    Read article
+                    
+
+
+
+
+
+
+
+
+
+Design for All
+
+
+
+
+Design for All
+
+
+40.1 What is Design for All?Contemporary interactive technologies and environments are used by a multitude of users with
+
+
+
+
+            Book chapter
+        
+
+
+
+
+                Read book chapter
+                
+
+
+
+
+
+
+
+
+
+How to Prepare for a User Interview and Ask the Right Questions
+
+
+
+
+How to Prepare for a User Interview and Ask the Right Questions
+
+
+Getting great interview results requires careful preparation. You need to be clear about the purpose of your research, d
+
+
+
+
+
+            751 shares
+        
+
+
+
+
+            3 years ago
+        
+
+
+
+
+
+                    Read article
+                    
+
+
+
+
+
+
+
+
+
+Pros and Cons of Conducting User Interviews
+
+
+
+
+Pros and Cons of Conducting User Interviews
+
+
+You have had a green light from your stakeholders to conduct some user research for your design project, and you think u
+
+
+
+
+
+            725 shares
+        
+
+
+
+
+            3 years ago
+        
+
+
+
+
+
+                    Read article
+                    
+
+
+
+
+
+
+
+
+
+Laddering Questions Drilling Down Deep and Moving Sideways in UX Research
+
+
+
+
+Laddering Questions Drilling Down Deep and Moving Sideways in UX Research
+
+
+Laddering questions help you direct your research in order to get the most valuable information from interview subjects.
+
+
+
+
+
+            670 shares
+        
+
+
+
+
+            7 years ago
+        
+
+
+
+
+
+                    Read article
+                    
+
+
+
+
+
+
+
+
+
+How to Moderate User Interviews
+
+
+
+
+How to Moderate User Interviews
+
+
+Carrying out user interviews can be chaotic! You must handle a lot of things at once to ensure that your participants ar
+
+
+
+
+
+            603 shares
+        
+
+
+
+
+            4 years ago
+        
+
+
+
+
+
+                    Read article
+                    
+
+
+
+
+
+
+
+
+
+Understand the “Why” of User Behavior to Design Better
+
+
+
+
+Understand the “Why” of User Behavior to Design Better
+
+
+You know what products and services you offer, or intend to offer. You likely have certain types of users in mind; you m
+
+
+
+
+
+            580 shares
+        
+
+
+
+
+            3 years ago
+        
+
+
+
+
+
+                    Read article
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open Access—Link to us!
+We believe in Open Access and the democratization of knowledge. Unfortunately, world-class educational materials such as this page are normally hidden behind paywalls or in expensive textbooks.
+If you want this to change,
+                            cite this page, link to us, or join us
+                        to help us democratize design knowledge!
+
+
+
+
+
+
+Search
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Popular related searches
+                                    
+
+
+
+
+
+
+
+                                        Filters
+                                    
+
+
+
+
+
+Search Results
+
+
+
+
+
+
+
+
+Footer navigation
+
+
+
+
+
+
+
+            With 172,410 graduates, the Interaction Design Foundation is the biggest
+            online design school globally. We were founded in 2002.
+        
+
+
+
+
+
+Connect With Us
+
+    Reach us at hello@interaction-design.org
+    or through our
+    online contact form.
+
+
+
+LinkedIn page
+
+
+
+
+
+Instagram page
+
+
+
+
+
+YouTube page
+
+
+
+
+
+X page
+
+
+
+
+
+Facebook page
+
+
+
+
+
+
+    Have questions? Check our frequently asked questions.
+
+
+
+Get Inspired Weekly
+
+    Join 310,463
+    designers and get
+    weekly inspiration and design tips in your inbox.
+
+
+ 
+
+
+Email
+
+
+
+
+                    Subscribe
+                
+
+
+Please write a valid email address.
+
+
+
+
+
+Browse UX / UI Design Topics
+
+
+
+A
+
+
+B
+
+
+C
+
+
+D
+
+
+E
+
+
+F
+
+
+G
+
+
+H
+
+
+I
+
+
+J
+
+
+K
+
+
+L
+
+
+M
+
+
+N
+
+
+O
+
+
+P
+
+
+Q
+
+
+R
+
+
+S
+
+
+T
+
+
+U
+
+
+V
+
+
+W
+
+
+X
+
+
+Y
+
+
+Z
+
+
+#
+
+
+
+
+
+
+UX Courses
+
+
+
+    
+    Beginner UX Courses
+
+            
+
+
+
+    
+    Intermediate UX Courses
+
+            
+
+
+
+    
+    Advanced UX Courses
+
+            
+
+
+
+
+Community
+
+
+
+    
+    Master Classes
+
+            
+
+
+
+    
+    Local Groups
+
+            
+
+
+
+    
+    Discussions
+
+            
+
+
+
+
+Literature
+
+
+
+    
+    UX Daily Articles
+
+            
+
+
+
+    
+    UX Topics
+
+            
+
+
+
+    
+    UX Books
+
+            
+
+
+
+
+About
+
+
+
+    
+    About Us
+
+            
+
+
+
+    
+    The People Behind
+
+            
+
+
+
+    
+    Contact Us
+
+            
+
+
+
+
+
+
+
+
+
+
+Terms of Use / Privacy
+For companies
+
+
+                  What is UX Design?
+              
+
+Give as gift
+Careers
+
+
+
+
+
+
+
+Open
+
+
+
+
+
+
+
+Privacy Settings
+
+Close
+
+
+
+
+
+
+                By using this site, you accept our
+                Cookie Policy and
+                Terms of Use.
+            
+
+
+
+
+
+                    Customize
+                
+
+
+        Our digital services use necessary tracking technologies, including third-party cookies,
+        for security, functionality, and to uphold user rights.
+        Optional cookies offer enhanced features, and analytics.
+    
+
+
+
+
+
+                Essential
+            
+
+
+
+
+
+
+
+            Experience the full potential of our site that remembers your preferences and supports secure sign-in.
+        
+
+
+Security
+
+
+
+
+
+Governs the storage of data necessary for maintaining website security, user authentication, and fraud prevention mechanisms.
+
+
+
+Enhanced Functionality
+
+
+
+
+
+Saves your settings and preferences, like your location, for a more personalized experience.
+
+
+
+Referral Program
+
+
+
+
+
+We use cookies to enable our referral program, giving you and your friends discounts.
+
+
+
+Error Reporting
+
+
+
+
+
+We share user ID with Bugsnag and NewRelic to help us track errors and fix issues.
+
+
+
+
+
+
+
+
+
+                Analytics
+            
+
+
+
+
+
+
+
+            Optimize your experience by allowing us to monitor site usage. You’ll enjoy a smoother, more personalized journey without compromising your privacy.
+        
+
+
+Analytics Storage
+
+
+
+
+
+Collects anonymous data on how you navigate and interact, helping us make informed improvements.
+
+
+
+Google
+
+
+
+
+
+Differentiates real visitors from automated bots, ensuring accurate usage data and improving your website experience.
+
+
+
+
+
+
+
+
+
+                Personalization
+            
+
+
+
+
+
+
+
+            Lets us tailor your digital ads to match your interests, making them more relevant and useful to you.
+        
+
+
+Advertising Storage
+
+
+
+
+
+Stores information for better-targeted advertising, enhancing your online ad experience.
+
+
+
+Personalization Storage
+
+
+
+
+
+Permits storing data to personalize content and ads across Google services based on user behavior, enhancing overall user experience.
+
+
+
+Advertising Personalization
+
+
+
+
+
+Allows for content and ad personalization across Google services based on user behavior. This consent enhances user experiences.
+
+
+
+User Data
+
+
+
+
+
+Enables personalizing ads based on user data and interactions, allowing for more relevant advertising experiences across Google services.
+
+
+
+
+
+
+
+
+
+                Advertising
+            
+
+
+
+
+
+
+
+            Receive more relevant advertisements by sharing your interests and behavior with our trusted advertising partners.
+        
+
+
+Meta Pixel
+
+
+
+
+
+Enables better ad targeting and measurement on Meta platforms, making ads you see more relevant.
+
+
+
+Meta CAPI
+
+
+
+
+
+Allows for improved ad effectiveness and measurement through Meta’s Conversions API, ensuring privacy-compliant data sharing.
+
+
+
+LinkedIn Insights
+
+
+
+
+
+Tracks conversions, retargeting, and web analytics for LinkedIn ad campaigns, enhancing ad relevance and performance.
+
+
+
+LinkedIn CAPI
+
+
+
+
+
+Enhances LinkedIn advertising through server-side event tracking, offering more accurate measurement and personalization.
+
+
+
+Google Ads Tag
+
+
+
+
+
+Tracks ad performance and user engagement, helping deliver ads that are most useful to you.
+
+
+
+
+
+
+
+
+                        Accept all
+                    
+
+
+Save Settings
+
+
+
+
+
+ 
+
+
+
+
+Share the knowledge!
+
+Share this content on:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+or copy link
+
+
+
+Copy link
+
+
+
+
+
+
+
+ 
+
+
+
+
+Cite according to academic standards
+
+        Simply copy and paste the text below into your bibliographic reference list, onto your blog, or anywhere else.
+        You can also just hyperlink to this page.
+    
+
+
+
+Citation format
+
+
+                            APA (recommended)
+                        
+
+                            MLA
+                        
+
+                            IEEE
+                        
+
+                            ACM
+                        
+
+What is this?
+ 
+
+
+
+
+
+
+
+                    Copy citation
+                
+
+
+
+
+
+                Interaction Design Foundation - IxDF.
+                (2016, May 25).
+                What are User Interviews?.
+                Interaction Design Foundation - IxDF.
+                
+
+
+                Interaction Design Foundation - IxDF.
+                “What are User Interviews?”
+                Interaction Design Foundation - IxDF.
+                20 Apr. 2024
+                
+
+
+                Interaction Design Foundation - IxDF.
+                “What are User Interviews?”
+                Interaction Design Foundation - IxDF.
+                
+                (accessed Apr. 20, 2024).
+            
+
+                Interaction Design Foundation - IxDF.
+                2016.
+                What are User Interviews?
+                Retrieved April 20, 2024
+                from 
+
+
+
+Cite selection
+
+
+
+
+        Copied to clipboard!
+    
+
+
+
+
+ 
+
+
+
+
+New to UX Design? We’re Giving You a Free ebook!
+
+
+
+
+
+
+            Download our free ebook The Basics of User Experience Design
+            to learn about core concepts of UX design.
+        
+
+            In 9 chapters, we’ll cover: conducting user interviews,
+            design thinking, interaction design, mobile UX design,
+            usability, UX research, and many more!
+        
+
+
+ 
+
+
+Download free ebook
+Go
+
+
+
+A valid email address is required.
+
+
+
+
+
+Get free UX design learning material every week
+
+
+
+
+310,463
+                designers
+            enjoy our newsletter—sure you don’t want to receive it?
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

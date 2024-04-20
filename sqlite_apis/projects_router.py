@@ -1,11 +1,10 @@
 from fastapi import APIRouter, HTTPException,status,Depends
- 
+import asyncio
 import sqlite3
  
 from typing import List, Optional, Annotated
 from pydantic import BaseModel, Field
-
-from sqlite_apis.data.model import Job, Project, ProjectCreate
+from sqlite_apis.data.model import File, Job, JobDetails, Project, ProjectCreate, Tag
  
 projects_router = APIRouter();
 
@@ -23,7 +22,6 @@ def get_db_connection():
 async def read_projects():
     conn = get_db_connection()
     cursor = conn.cursor()
-    
     # Fetch projects
     cursor.execute("SELECT * FROM Projects")
     projects_rows = cursor.fetchall()
@@ -42,6 +40,8 @@ async def read_projects():
         ))
     
     conn.close()
+    
+
     return projects
 
 @projects_router.post("/", response_model=Project, status_code=status.HTTP_201_CREATED)
@@ -105,3 +105,60 @@ async def delete_project(project_id: int):
     conn.commit()
     conn.close()
     return {"message": "Project deleted successfully"}
+
+
+@projects_router.get("/{project_id}/jobs/{job_id}", response_model=JobDetails)
+def get_job_by_id(job_id: int):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+    
+    # Step 2: Fetch the job
+    cursor.execute("SELECT * FROM Jobs WHERE id = ?", (job_id,))
+    job = cursor.fetchone()
+    if not job:
+        raise HTTPException(status_code=404, detail="Job not found")
+
+    # Step 3: Fetch project tags
+   # Adjusted SQL Query for Fetching Tags (assuming `description` and `color` are available in the `Tags` table)
+    cursor.execute("""
+        SELECT t.id, t.name, t.description, t.color 
+        FROM Tags t 
+        JOIN Projects_Tags pt ON t.id = pt.tag_id 
+        WHERE pt.project_id = ?
+    """, (job['project_id'],))
+    tags = cursor.fetchall()  
+
+    # Step 4: Fetch job files
+    cursor.execute("SELECT id, name ,created_at FROM Files WHERE job_id = ?", (job_id,))
+    files = cursor.fetchall()
+
+    # Close the connection
+    conn.close()
+
+    # Step 5 & 7: Combine the data and return it
+    return JobDetails(
+        id=job['id'],
+        name=job['name'],
+        project_id=job['project_id'],
+        tags=[Tag(id=tag['id'], name=tag['name'], description=tag['description'], color=tag['color']) for tag in tags],
+        files=[File(id=file['id'], name=file['name'],created_at=file['created_at']) for file in files]
+    )
+
+@projects_router.get("/{project_id}/files", response_model=List[File])
+def get_files_by_project(project_id: int):
+    conn = get_db_connection()
+    conn.row_factory = sqlite3.Row
+    cursor = conn.cursor()
+    
+    cursor.execute("""
+        SELECT id, name, created_at FROM Files WHERE project_id = ?
+    """, (project_id,))
+    
+    files_rows = cursor.fetchall()
+    if not files_rows:
+        raise HTTPException(status_code=404, detail="No files found for the given project ID")
+    
+    files = [File(id=row['id'], name=row['name'], created_at=row['created_at']) for row in files_rows]
+    
+    conn.close()
+    return files

@@ -5892,3 +5892,589 @@ exceptiongroup.ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
 [36mDEBUG[0m:    [07-04-2024 13:03:26] Stopping component SimpleAssignmentPolicy
 [36mDEBUG[0m:    [07-04-2024 13:03:26] Stopping component OpenTelemetryClient
 [32mINFO[0m:     [07-04-2024 13:03:26] Application shutdown complete.
+[32mINFO[0m:     [08-04-2024 23:13:36] Set chroma_server_nofile to 65535
+[32mINFO[0m:     [08-04-2024 23:13:37] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [08-04-2024 23:13:37] Starting component System
+[36mDEBUG[0m:    [08-04-2024 23:13:37] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [08-04-2024 23:13:37] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [08-04-2024 23:13:37] Starting component SqliteDB
+[36mDEBUG[0m:    [08-04-2024 23:13:37] Starting component QuotaEnforcer
+[36mDEBUG[0m:    [08-04-2024 23:13:37] Starting component Posthog
+[36mDEBUG[0m:    [08-04-2024 23:13:37] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [08-04-2024 23:13:37] Starting component SegmentAPI
+[32mINFO[0m:     [08-04-2024 23:13:37] Started server process [[36m1028[0m]
+[32mINFO[0m:     [08-04-2024 23:13:37] Waiting for application startup.
+[32mINFO[0m:     [08-04-2024 23:13:37] Application startup complete.
+[32mINFO[0m:     [08-04-2024 23:13:37] Uvicorn running on [1mhttp://localhost:3001[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [08-04-2024 23:13:42] 127.0.0.1:43816 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [08-04-2024 23:13:42] 127.0.0.1:43816 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [08-04-2024 23:13:47] 127.0.0.1:43832 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [08-04-2024 23:13:47] 127.0.0.1:43832 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [08-04-2024 23:13:47] 127.0.0.1:43838 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:00:45] Set chroma_server_nofile to 65535
+[32mINFO[0m:     [09-04-2024 07:00:45] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [09-04-2024 07:00:45] Starting component System
+[36mDEBUG[0m:    [09-04-2024 07:00:45] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [09-04-2024 07:00:45] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [09-04-2024 07:00:45] Starting component SqliteDB
+[36mDEBUG[0m:    [09-04-2024 07:00:45] Starting component QuotaEnforcer
+[36mDEBUG[0m:    [09-04-2024 07:00:45] Starting component Posthog
+[36mDEBUG[0m:    [09-04-2024 07:00:45] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [09-04-2024 07:00:45] Starting component SegmentAPI
+[32mINFO[0m:     [09-04-2024 07:00:45] Started server process [[36m2266[0m]
+[32mINFO[0m:     [09-04-2024 07:00:45] Waiting for application startup.
+[32mINFO[0m:     [09-04-2024 07:00:45] Application startup complete.
+[32mINFO[0m:     [09-04-2024 07:00:45] Uvicorn running on [1mhttp://localhost:3001[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [09-04-2024 07:26:44] 127.0.0.1:32852 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:26:44] 127.0.0.1:32852 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:26:49] 127.0.0.1:36864 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:26:49] 127.0.0.1:36864 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:26:49] 127.0.0.1:36878 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:55:34] 127.0.0.1:60182 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:55:34] 127.0.0.1:60182 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:55:38] 127.0.0.1:51784 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:55:38] 127.0.0.1:51784 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:55:40] 127.0.0.1:51786 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:55:40] 127.0.0.1:51786 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:55:40] 127.0.0.1:51796 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:56:01] 127.0.0.1:46136 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:56:01] 127.0.0.1:46136 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:56:05] 127.0.0.1:49844 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:56:05] 127.0.0.1:49844 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:56:07] 127.0.0.1:49858 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:56:07] 127.0.0.1:49858 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:56:07] 127.0.0.1:49862 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:56:20] 127.0.0.1:59450 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:56:20] 127.0.0.1:59450 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:56:28] 127.0.0.1:43104 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:56:28] 127.0.0.1:43104 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:56:30] 127.0.0.1:43116 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:56:30] 127.0.0.1:43116 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 07:56:30] 127.0.0.1:43122 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:27:28] 127.0.0.1:39152 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:27:28] 127.0.0.1:39152 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:27:33] 127.0.0.1:39154 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:27:33] 127.0.0.1:39154 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:27:36] 127.0.0.1:60038 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:27:36] 127.0.0.1:60038 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:27:36] 127.0.0.1:60046 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:27:40] 127.0.0.1:60052 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:27:40] 127.0.0.1:60052 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:27:43] 127.0.0.1:60066 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:27:43] 127.0.0.1:60066 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:27:43] 127.0.0.1:60070 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:27:51] 127.0.0.1:47512 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:27:51] 127.0.0.1:47512 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:27:53] 127.0.0.1:47516 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:27:53] 127.0.0.1:47516 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:27:53] 127.0.0.1:47526 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:28:09] 127.0.0.1:59984 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:28:09] 127.0.0.1:59984 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:28:11] 127.0.0.1:59990 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:28:11] 127.0.0.1:59990 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:28:11] 127.0.0.1:60000 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:28:37] 127.0.0.1:58056 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:28:37] 127.0.0.1:58056 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:28:40] 127.0.0.1:58062 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:28:40] 127.0.0.1:58062 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:28:40] 127.0.0.1:58066 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:28:45] 127.0.0.1:41262 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:28:45] 127.0.0.1:41262 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:28:47] 127.0.0.1:41266 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:28:47] 127.0.0.1:41266 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:28:47] 127.0.0.1:41268 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:29:00] 127.0.0.1:45380 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:29:00] 127.0.0.1:45380 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:29:03] 127.0.0.1:45386 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:29:03] 127.0.0.1:45386 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 14:29:03] 127.0.0.1:45400 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:12:55] 127.0.0.1:51186 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:12:55] 127.0.0.1:51186 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:12:59] 127.0.0.1:51202 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:12:59] 127.0.0.1:51202 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:12:59] 127.0.0.1:51216 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:13:06] 127.0.0.1:57020 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:13:06] 127.0.0.1:57020 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:13:08] 127.0.0.1:57034 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:13:08] 127.0.0.1:57034 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:13:08] 127.0.0.1:57046 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:13:16] 127.0.0.1:34256 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:13:16] 127.0.0.1:34256 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:13:18] 127.0.0.1:34262 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:13:18] 127.0.0.1:34262 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:13:18] 127.0.0.1:34266 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:13:33] 127.0.0.1:37730 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:13:33] 127.0.0.1:37730 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:13:36] 127.0.0.1:32776 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:13:36] 127.0.0.1:32776 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:13:38] 127.0.0.1:32786 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:13:38] 127.0.0.1:32786 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:13:38] 127.0.0.1:32798 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:13:51] 127.0.0.1:57572 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:13:51] 127.0.0.1:57572 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:13:54] 127.0.0.1:57582 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:13:54] 127.0.0.1:57582 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:13:56] 127.0.0.1:33272 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:13:56] 127.0.0.1:33272 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:13:56] 127.0.0.1:33286 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:14:56] 127.0.0.1:38380 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:14:56] 127.0.0.1:38380 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:14:58] 127.0.0.1:38394 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:14:58] 127.0.0.1:38394 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:14:58] 127.0.0.1:38402 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:15:48] 127.0.0.1:46552 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:15:48] 127.0.0.1:46552 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:15:51] 127.0.0.1:46556 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:15:51] 127.0.0.1:46556 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:15:55] 127.0.0.1:43466 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:15:55] 127.0.0.1:43466 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:15:59] 127.0.0.1:43474 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:15:59] 127.0.0.1:43474 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:16:01] 127.0.0.1:43478 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:16:01] 127.0.0.1:43478 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [09-04-2024 22:16:01] 127.0.0.1:43484 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 00:17:43] 127.0.0.1:42126 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 00:17:43] 127.0.0.1:42126 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 00:17:46] 127.0.0.1:48380 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 00:17:46] 127.0.0.1:48380 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 00:17:46] 127.0.0.1:48392 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 06:59:12] Set chroma_server_nofile to 65535
+[32mINFO[0m:     [10-04-2024 06:59:12] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [10-04-2024 06:59:12] Starting component System
+[36mDEBUG[0m:    [10-04-2024 06:59:12] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [10-04-2024 06:59:12] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [10-04-2024 06:59:12] Starting component SqliteDB
+[36mDEBUG[0m:    [10-04-2024 06:59:12] Starting component QuotaEnforcer
+[36mDEBUG[0m:    [10-04-2024 06:59:12] Starting component Posthog
+[36mDEBUG[0m:    [10-04-2024 06:59:12] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [10-04-2024 06:59:12] Starting component SegmentAPI
+[32mINFO[0m:     [10-04-2024 06:59:13] Started server process [[36m1043[0m]
+[32mINFO[0m:     [10-04-2024 06:59:13] Waiting for application startup.
+[32mINFO[0m:     [10-04-2024 06:59:13] Application startup complete.
+[32mINFO[0m:     [10-04-2024 06:59:13] Uvicorn running on [1mhttp://localhost:3001[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [10-04-2024 06:59:26] 127.0.0.1:55610 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 06:59:26] 127.0.0.1:55610 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 07:03:34] 127.0.0.1:37012 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 07:03:34] 127.0.0.1:37012 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 07:03:41] 127.0.0.1:41306 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 07:03:41] 127.0.0.1:41306 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 07:03:41] 127.0.0.1:41318 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 07:04:43] 127.0.0.1:45040 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 07:04:43] 127.0.0.1:45040 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 07:04:47] 127.0.0.1:47978 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 07:04:47] 127.0.0.1:47978 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 07:04:47] 127.0.0.1:47984 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 07:09:17] 127.0.0.1:41162 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 07:09:17] 127.0.0.1:41162 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 07:09:21] 127.0.0.1:41178 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 07:09:21] 127.0.0.1:41178 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 07:09:21] 127.0.0.1:41192 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 07:09:46] 127.0.0.1:38804 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 07:09:46] 127.0.0.1:38804 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 07:09:50] 127.0.0.1:38614 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 07:09:50] 127.0.0.1:38614 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 07:09:50] 127.0.0.1:38630 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 07:10:01] 127.0.0.1:48552 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 07:10:01] 127.0.0.1:48552 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 07:10:04] 127.0.0.1:48564 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 07:10:04] 127.0.0.1:48564 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 07:10:04] 127.0.0.1:48576 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 09:09:31] 127.0.0.1:59590 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 09:09:31] 127.0.0.1:59590 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 09:09:36] 127.0.0.1:59604 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 09:09:36] 127.0.0.1:59604 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 09:09:36] 127.0.0.1:59606 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 10:00:49] 127.0.0.1:46180 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 10:00:49] 127.0.0.1:46180 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 10:00:52] 127.0.0.1:46186 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 10:00:52] 127.0.0.1:46186 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 10:00:52] 127.0.0.1:46196 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 22:17:11] 127.0.0.1:44384 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 22:17:11] 127.0.0.1:44384 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[31mERROR[0m:    [10-04-2024 22:17:11] Resetting is not allowed by this configuration (to enable it, set `allow_reset` to `True` in your Settings() or include `ALLOW_RESET=TRUE` in your environment variables)
+Traceback (most recent call last):
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/anyio/streams/memory.py", line 97, in receive
+    return self.receive_nowait()
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/anyio/streams/memory.py", line 92, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/middleware/base.py", line 159, in call_next
+    message = await recv_stream.receive()
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/anyio/streams/memory.py", line 112, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/chromadb/server/fastapi/__init__.py", line 82, in catch_exceptions_middleware
+    return await call_next(request)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/middleware/base.py", line 165, in call_next
+    raise app_exc
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/middleware/base.py", line 151, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/middleware/base.py", line 189, in __call__
+    with collapse_excgroups():
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/_utils.py", line 93, in collapse_excgroups
+    raise exc
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/middleware/base.py", line 191, in __call__
+    response = await self.dispatch_func(request, call_next)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/chromadb/server/fastapi/__init__.py", line 96, in check_http_version_middleware
+    return await call_next(request)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/middleware/base.py", line 165, in call_next
+    raise app_exc
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/middleware/base.py", line 151, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/routing.py", line 758, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/routing.py", line 778, in app
+    await route.handle(scope, receive, send)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/routing.py", line 299, in handle
+    await self.app(scope, receive, send)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/routing.py", line 79, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/routing.py", line 74, in app
+    response = await func(request)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/fastapi/routing.py", line 299, in app
+    raise e
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/fastapi/routing.py", line 294, in app
+    raw_response = await run_endpoint_function(
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/fastapi/routing.py", line 193, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/concurrency.py", line 42, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/anyio/to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 2144, in run_sync_in_worker_thread
+    return await future
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 851, in run
+    result = context.run(func, *args)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/chromadb/telemetry/opentelemetry/__init__.py", line 127, in wrapper
+    return f(*args, **kwargs)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/chromadb/auth/fastapi.py", line 241, in wrapped
+    return f(*args, **kwargs)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/chromadb/server/fastapi/__init__.py", line 603, in reset
+    return self._api.reset()
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/chromadb/api/segment.py", line 780, in reset
+    self._system.reset_state()
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/chromadb/config.py", line 415, in reset_state
+    raise ValueError(
+ValueError: Resetting is not allowed by this configuration (to enable it, set `allow_reset` to `True` in your Settings() or include `ALLOW_RESET=TRUE` in your environment variables)
+[32mINFO[0m:     [10-04-2024 22:17:11] 127.0.0.1:44386 - "POST /api/v1/reset HTTP/1.1" 500
+[32mINFO[0m:     [10-04-2024 22:18:40] 127.0.0.1:41630 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 22:18:40] 127.0.0.1:41630 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[31mERROR[0m:    [10-04-2024 22:18:40] Resetting is not allowed by this configuration (to enable it, set `allow_reset` to `True` in your Settings() or include `ALLOW_RESET=TRUE` in your environment variables)
+Traceback (most recent call last):
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/anyio/streams/memory.py", line 97, in receive
+    return self.receive_nowait()
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/anyio/streams/memory.py", line 92, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/middleware/base.py", line 159, in call_next
+    message = await recv_stream.receive()
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/anyio/streams/memory.py", line 112, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/chromadb/server/fastapi/__init__.py", line 82, in catch_exceptions_middleware
+    return await call_next(request)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/middleware/base.py", line 165, in call_next
+    raise app_exc
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/middleware/base.py", line 151, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/middleware/base.py", line 189, in __call__
+    with collapse_excgroups():
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/_utils.py", line 93, in collapse_excgroups
+    raise exc
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/middleware/base.py", line 191, in __call__
+    response = await self.dispatch_func(request, call_next)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/chromadb/server/fastapi/__init__.py", line 96, in check_http_version_middleware
+    return await call_next(request)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/middleware/base.py", line 165, in call_next
+    raise app_exc
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/middleware/base.py", line 151, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/routing.py", line 758, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/routing.py", line 778, in app
+    await route.handle(scope, receive, send)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/routing.py", line 299, in handle
+    await self.app(scope, receive, send)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/routing.py", line 79, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/routing.py", line 74, in app
+    response = await func(request)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/fastapi/routing.py", line 299, in app
+    raise e
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/fastapi/routing.py", line 294, in app
+    raw_response = await run_endpoint_function(
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/fastapi/routing.py", line 193, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/concurrency.py", line 42, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/anyio/to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 2144, in run_sync_in_worker_thread
+    return await future
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 851, in run
+    result = context.run(func, *args)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/chromadb/telemetry/opentelemetry/__init__.py", line 127, in wrapper
+    return f(*args, **kwargs)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/chromadb/auth/fastapi.py", line 241, in wrapped
+    return f(*args, **kwargs)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/chromadb/server/fastapi/__init__.py", line 603, in reset
+    return self._api.reset()
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/chromadb/api/segment.py", line 780, in reset
+    self._system.reset_state()
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/chromadb/config.py", line 415, in reset_state
+    raise ValueError(
+ValueError: Resetting is not allowed by this configuration (to enable it, set `allow_reset` to `True` in your Settings() or include `ALLOW_RESET=TRUE` in your environment variables)
+[32mINFO[0m:     [10-04-2024 22:18:40] 127.0.0.1:41634 - "POST /api/v1/reset HTTP/1.1" 500
+[32mINFO[0m:     [10-04-2024 22:19:06] 127.0.0.1:55818 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [10-04-2024 22:19:06] 127.0.0.1:55818 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[31mERROR[0m:    [10-04-2024 22:19:06] Resetting is not allowed by this configuration (to enable it, set `allow_reset` to `True` in your Settings() or include `ALLOW_RESET=TRUE` in your environment variables)
+Traceback (most recent call last):
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/anyio/streams/memory.py", line 97, in receive
+    return self.receive_nowait()
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/anyio/streams/memory.py", line 92, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/middleware/base.py", line 159, in call_next
+    message = await recv_stream.receive()
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/anyio/streams/memory.py", line 112, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/chromadb/server/fastapi/__init__.py", line 82, in catch_exceptions_middleware
+    return await call_next(request)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/middleware/base.py", line 165, in call_next
+    raise app_exc
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/middleware/base.py", line 151, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/middleware/base.py", line 189, in __call__
+    with collapse_excgroups():
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/_utils.py", line 93, in collapse_excgroups
+    raise exc
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/middleware/base.py", line 191, in __call__
+    response = await self.dispatch_func(request, call_next)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/chromadb/server/fastapi/__init__.py", line 96, in check_http_version_middleware
+    return await call_next(request)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/middleware/base.py", line 165, in call_next
+    raise app_exc
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/middleware/base.py", line 151, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/routing.py", line 758, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/routing.py", line 778, in app
+    await route.handle(scope, receive, send)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/routing.py", line 299, in handle
+    await self.app(scope, receive, send)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/routing.py", line 79, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/routing.py", line 74, in app
+    response = await func(request)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/fastapi/routing.py", line 299, in app
+    raise e
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/fastapi/routing.py", line 294, in app
+    raw_response = await run_endpoint_function(
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/fastapi/routing.py", line 193, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/starlette/concurrency.py", line 42, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/anyio/to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 2144, in run_sync_in_worker_thread
+    return await future
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 851, in run
+    result = context.run(func, *args)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/chromadb/telemetry/opentelemetry/__init__.py", line 127, in wrapper
+    return f(*args, **kwargs)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/chromadb/auth/fastapi.py", line 241, in wrapped
+    return f(*args, **kwargs)
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/chromadb/server/fastapi/__init__.py", line 603, in reset
+    return self._api.reset()
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/chromadb/api/segment.py", line 780, in reset
+    self._system.reset_state()
+  File "/home/cyrilvarghese/miniforge3/lib/python3.10/site-packages/chromadb/config.py", line 415, in reset_state
+    raise ValueError(
+ValueError: Resetting is not allowed by this configuration (to enable it, set `allow_reset` to `True` in your Settings() or include `ALLOW_RESET=TRUE` in your environment variables)
+[32mINFO[0m:     [10-04-2024 22:19:06] 127.0.0.1:55830 - "POST /api/v1/reset HTTP/1.1" 500
+[32mINFO[0m:     [13-04-2024 09:01:38] Set chroma_server_nofile to 65535
+[32mINFO[0m:     [13-04-2024 09:01:38] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [13-04-2024 09:01:38] Starting component System
+[36mDEBUG[0m:    [13-04-2024 09:01:38] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [13-04-2024 09:01:38] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [13-04-2024 09:01:38] Starting component SqliteDB
+[36mDEBUG[0m:    [13-04-2024 09:01:38] Starting component QuotaEnforcer
+[36mDEBUG[0m:    [13-04-2024 09:01:38] Starting component Posthog
+[36mDEBUG[0m:    [13-04-2024 09:01:38] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [13-04-2024 09:01:38] Starting component SegmentAPI
+[32mINFO[0m:     [13-04-2024 09:01:38] Started server process [[36m14280[0m]
+[32mINFO[0m:     [13-04-2024 09:01:38] Waiting for application startup.
+[32mINFO[0m:     [13-04-2024 09:01:38] Application startup complete.
+[32mINFO[0m:     [13-04-2024 09:01:38] Uvicorn running on [1mhttp://localhost:3001[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [13-04-2024 09:08:15] Shutting down
+[32mINFO[0m:     [13-04-2024 09:08:15] Waiting for application shutdown.
+[36mDEBUG[0m:    [13-04-2024 09:08:15] Stopping component System
+[36mDEBUG[0m:    [13-04-2024 09:08:15] Stopping component SegmentAPI
+[36mDEBUG[0m:    [13-04-2024 09:08:15] Stopping component LocalSegmentManager
+[36mDEBUG[0m:    [13-04-2024 09:08:15] Stopping component Posthog
+[36mDEBUG[0m:    [13-04-2024 09:08:15] Stopping component QuotaEnforcer
+[36mDEBUG[0m:    [13-04-2024 09:08:15] Stopping component SqliteDB
+[36mDEBUG[0m:    [13-04-2024 09:08:15] Stopping component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [13-04-2024 09:08:15] Stopping component OpenTelemetryClient
+[32mINFO[0m:     [13-04-2024 09:08:15] Application shutdown complete.
+[32mINFO[0m:     [13-04-2024 09:08:15] Finished server process [[36m14280[0m]
+[32mINFO[0m:     [18-04-2024 21:23:43] Set chroma_server_nofile to 65535
+[32mINFO[0m:     [18-04-2024 21:23:43] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [18-04-2024 21:23:43] Starting component System
+[36mDEBUG[0m:    [18-04-2024 21:23:43] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [18-04-2024 21:23:43] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [18-04-2024 21:23:43] Starting component SqliteDB
+[36mDEBUG[0m:    [18-04-2024 21:23:43] Starting component QuotaEnforcer
+[36mDEBUG[0m:    [18-04-2024 21:23:43] Starting component Posthog
+[36mDEBUG[0m:    [18-04-2024 21:23:43] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [18-04-2024 21:23:43] Starting component SegmentAPI
+[32mINFO[0m:     [18-04-2024 21:23:43] Started server process [[36m1305[0m]
+[32mINFO[0m:     [18-04-2024 21:23:43] Waiting for application startup.
+[32mINFO[0m:     [18-04-2024 21:23:43] Application startup complete.
+[32mINFO[0m:     [18-04-2024 21:23:43] Uvicorn running on [1mhttp://localhost:3001[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [18-04-2024 21:23:48] 127.0.0.1:48386 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [18-04-2024 21:23:48] 127.0.0.1:48386 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [18-04-2024 21:23:54] 127.0.0.1:43760 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [18-04-2024 21:23:54] 127.0.0.1:43760 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [18-04-2024 21:23:54] 127.0.0.1:43770 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [18-04-2024 21:38:59] 127.0.0.1:43820 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [18-04-2024 21:39:00] 127.0.0.1:43820 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [18-04-2024 21:39:04] 127.0.0.1:42372 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [18-04-2024 21:39:04] 127.0.0.1:42372 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [18-04-2024 21:39:15] 127.0.0.1:52300 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [18-04-2024 21:39:15] 127.0.0.1:52300 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [18-04-2024 21:39:26] 127.0.0.1:50392 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [18-04-2024 21:39:26] 127.0.0.1:50392 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [18-04-2024 21:39:38] 127.0.0.1:47992 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [18-04-2024 21:39:38] 127.0.0.1:47992 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [18-04-2024 21:40:07] 127.0.0.1:45348 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [18-04-2024 21:40:07] 127.0.0.1:45348 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [18-04-2024 21:40:07] 127.0.0.1:45364 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [18-04-2024 21:40:07] 127.0.0.1:45364 - "GET /api/v1/collections/70ee3a65-347c-4448-85d0-ae5cd37bbf1d/count HTTP/1.1" 200
+[33mWARNING[0m:  [19-04-2024 08:16:01] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [19-04-2024 08:16:01] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [19-04-2024 08:16:01] Starting component System
+[36mDEBUG[0m:    [19-04-2024 08:16:01] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [19-04-2024 08:16:01] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [19-04-2024 08:16:01] Starting component SqliteDB
+[36mDEBUG[0m:    [19-04-2024 08:16:01] Starting component QuotaEnforcer
+[36mDEBUG[0m:    [19-04-2024 08:16:01] Starting component Posthog
+[36mDEBUG[0m:    [19-04-2024 08:16:01] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [19-04-2024 08:16:01] Starting component SegmentAPI
+[32mINFO[0m:     [19-04-2024 08:16:01] Started server process [[36m2291[0m]
+[32mINFO[0m:     [19-04-2024 08:16:01] Waiting for application startup.
+[32mINFO[0m:     [19-04-2024 08:16:01] Application startup complete.
+[32mINFO[0m:     [19-04-2024 08:16:01] Uvicorn running on [1mhttp://localhost:3001[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [19-04-2024 08:16:12] 127.0.0.1:49664 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [19-04-2024 08:16:12] 127.0.0.1:49664 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [19-04-2024 08:16:19] 127.0.0.1:56118 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [19-04-2024 08:16:19] 127.0.0.1:56118 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [19-04-2024 08:16:19] 127.0.0.1:56134 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[33mWARNING[0m:  [19-04-2024 21:50:34] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [19-04-2024 21:50:34] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [19-04-2024 21:50:34] Starting component System
+[36mDEBUG[0m:    [19-04-2024 21:50:34] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [19-04-2024 21:50:34] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [19-04-2024 21:50:34] Starting component SqliteDB
+[36mDEBUG[0m:    [19-04-2024 21:50:34] Starting component QuotaEnforcer
+[36mDEBUG[0m:    [19-04-2024 21:50:34] Starting component Posthog
+[36mDEBUG[0m:    [19-04-2024 21:50:34] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [19-04-2024 21:50:34] Starting component SegmentAPI
+[32mINFO[0m:     [19-04-2024 21:50:35] Started server process [[36m158705[0m]
+[32mINFO[0m:     [19-04-2024 21:50:35] Waiting for application startup.
+[32mINFO[0m:     [19-04-2024 21:50:35] Application startup complete.
+[32mINFO[0m:     [19-04-2024 21:50:35] Uvicorn running on [1mhttp://localhost:3001[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [19-04-2024 21:50:43] 127.0.0.1:43822 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [19-04-2024 21:50:43] 127.0.0.1:43822 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [19-04-2024 21:50:46] 127.0.0.1:43824 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [19-04-2024 21:50:46] 127.0.0.1:43824 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [19-04-2024 21:50:46] 127.0.0.1:43830 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[33mWARNING[0m:  [20-04-2024 09:21:31] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [20-04-2024 09:21:31] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [20-04-2024 09:21:31] Starting component System
+[36mDEBUG[0m:    [20-04-2024 09:21:31] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [20-04-2024 09:21:31] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [20-04-2024 09:21:31] Starting component SqliteDB
+[36mDEBUG[0m:    [20-04-2024 09:21:31] Starting component QuotaEnforcer
+[36mDEBUG[0m:    [20-04-2024 09:21:31] Starting component Posthog
+[36mDEBUG[0m:    [20-04-2024 09:21:31] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [20-04-2024 09:21:31] Starting component SegmentAPI
+[32mINFO[0m:     [20-04-2024 09:21:31] Started server process [[36m983[0m]
+[32mINFO[0m:     [20-04-2024 09:21:31] Waiting for application startup.
+[32mINFO[0m:     [20-04-2024 09:21:31] Application startup complete.
+[32mINFO[0m:     [20-04-2024 09:21:31] Uvicorn running on [1mhttp://localhost:3001[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [20-04-2024 09:21:37] 127.0.0.1:54664 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [20-04-2024 09:21:37] 127.0.0.1:54664 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [20-04-2024 09:21:50] 127.0.0.1:42866 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [20-04-2024 09:21:50] 127.0.0.1:42866 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [20-04-2024 09:21:50] 127.0.0.1:42876 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [20-04-2024 10:02:38] 127.0.0.1:46162 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [20-04-2024 10:25:59] 127.0.0.1:33392 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [20-04-2024 10:40:33] 127.0.0.1:47286 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [20-04-2024 10:40:33] 127.0.0.1:47286 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [20-04-2024 10:40:33] 127.0.0.1:47290 - "GET /api/v1/collections/ux-research-base?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [20-04-2024 10:40:33] 127.0.0.1:47296 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [20-04-2024 10:40:33] 127.0.0.1:47296 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [20-04-2024 10:40:33] 127.0.0.1:47312 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [20-04-2024 10:40:33] 127.0.0.1:47312 - "GET /api/v1/collections/cf3b74dc-1eea-4c31-b023-65451eff91a5/count HTTP/1.1" 200

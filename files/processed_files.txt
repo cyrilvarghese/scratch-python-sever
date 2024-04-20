@@ -1,9 +1,16 @@
+processed_files.txt
+uxdesigninstitute_20_ Apr'24_user-interviews-for-ux-research.com.txt
+freshworks_20_ Apr'24_what-is-a-user-interview-and-why-do-it-blog.com.txt
 Five_User_Interview_Mistakes_to_Avoid__in_5_Minutes__yt.txt
 interaction-design_30_Mar'24_user-interviews.org.txt
+nngroup_20_ Apr'24_user-interviews.com.txt
+yale_20_ Apr'24_user-interview-example-questions.edu.txt
 nngroup_30_Mar'24_user-interviews.com.txt
 yale_30_Mar'24_user-interview-example-questions.edu.txt
 urls.txt
+interaction-design_20_ Apr'24_user-interviews.org.txt
 com_30_Mar'24_user-interviews.com.txt
+com_20_ Apr'24_user-interviews.com.txt
 How_to_do_a_user_interview__from_Google_Ventures_updated__yt.txt
 freshworks_30_Mar'24_what-is-a-user-interview-and-why-do-it-blog.com.txt
 uxdesigninstitute_30_Mar'24_user-interviews-for-ux-research.com.txt

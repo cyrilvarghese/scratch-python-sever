@@ -1,0 +1,396 @@
+
+
+
+
+
+
+
+
+
+
+What is a user interview and why do it?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Freshsurvey  Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All Categories
+
+
+
+Customer experience
+Employee experience
+General
+Product
+Survey 101
+
+
+
+
+
+Customer experience
+Employee experience
+General
+Product
+Survey 101
+
+
+
+
+
+Try Freshsurvey 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Authors
+
+ 
+Niranjan Ragavan 
+November 8, 2023.  4 min Read
+
+
+
+
+
+November 8, 2023.  4 min Read
+
+
+
+
+
+
+What is a user interview and why do it?
+
+A user interview is a one-on-one conversation between a researcher and their potential or existing audience. The goal of the interview, beyond knowing the user’s demographics or role-related info, is to learn more about the user’s needs, wants, and pain points. User interviews can be used at any stage of the product development process, from ideation to validation.
+Here are some of the benefits of conducting user interviews:
+
+Gain a deeper understanding of your users. User interviews allow you to ask open-ended questions and get detailed feedback from your users. This can help you to better understand their needs, motivations, and pain points.
+Identify new opportunities. By listening to your users, you may uncover new opportunities to improve your product or service.
+Validate your ideas. User interviews can help you to validate your ideas and assumptions about your target market.
+Get feedback on your product. If you have a prototype or working product, you can use user interviews to get feedback on it. This can help you to identify usability issues and make necessary improvements.
+
+User interviews are a valuable tool for any product or service team. By taking the time to interview your users, you can gain valuable insights that can help you to create a product or service that your users love.
+Who typically conducts a user interview
+Product managers, UX researchers, and market researchers typically conduct user interviews.
+Product managers use user interviews to learn more about the needs and wants of their target users. This information is used to guide the development of new products and features, as well as to improve existing products.
+UX researchers use user interviews to understand how users interact with products and services. This information is used to identify usability issues and to improve the user experience.
+Market researchers use user interviews to gather insights about the market and to identify new opportunities. This information is used to develop marketing strategies and to improve products and services to meet the needs of the market better.
+In addition to these professionals, user interviews may also be conducted by other members of the product team, such as engineers, designers, and marketers. Anyone who has a stake in the success of the product or service can benefit from conducting user interviews.
+When to conduct a user interview
+User interviews can be conducted at various stages of the product development process, from ideation to validation and beyond. Here’s a breakdown of when to conduct user interviews:
+Before Development:
+Discovery and Ideation: Conduct user interviews early on to understand user needs, pain points, and expectations. This helps define the product’s direction and identify potential opportunities.
+During Early Stages of Development:
+Concept Testing and Validation: As you develop prototypes or early versions of the product, user interviews can help validate your ideas and ensure you’re on the right track.
+Usability Testing: Gather feedback on the product’s usability, identify potential issues, and make necessary improvements before full-scale development.
+After Release:
+Post-Launch Feedback: Once the product is released, user interviews can provide valuable insights into user experiences, satisfaction levels, and areas for further improvement.
+Gathering Insights for Future Iterations: User interviews can inform future product iterations, ensuring continuous improvement and alignment with user needs.
+Gathering Feedback on New Features: As you introduce new features or updates, user interviews can help assess their effectiveness and gather feedback for further refinement.
+
+How to conduct a user interview
+To conduct a user interview, you should:
+
+Have a goal in mind. We’ve seen that different stakeholders can learn from a user interview. Focus on what you want to learn from the interview and use that to develop questions that will help you to get there.
+Prepare a questionnaire. Your questionnaire should include a mix of open-ended and closed-ended questions. Open-ended questions allow users to provide detailed feedback, while closed-ended questions can be used to gather specific data quickly.
+Actively listen and ask follow-up questions. Don’t just read off your questionnaire. Pay attention to what the user is saying and ask follow-up questions for more clarification.
+Meet face-to-face or virtually. Face-to-face interviews are ideal, as they allow you to build rapport with the user and get a better understanding of their body language. However, virtual interviews can also be effective, especially if you are interviewing users from different locations.
+Record the interview. This will allow you to listen back to it for any insights you may have missed.
+
+Here are some additional tips for conducting user interviews:
+
+Be respectful of the user’s time. Keep the interview to a reasonable length, and don’t ask any unnecessary questions.
+Be objective and unbiased. Don’t lead the user or try to influence their answers.
+Be prepared to handle difficult questions. If the user asks a question that you don’t know the answer to, be honest and say so. You can follow up with the user after the interview with the answer.
+Thank the user for their time. Let them know that you appreciate their feedback and that it will be used to improve the product or service.
+If you intend to use the insights for internal use or carry them in your marketing material, inform the respondent of this at the beginning and seek consent if necessary,
+
+You can also use dedicated survey software to collect responses. Here’s what you can do with one.
+
+You can create a survey in advance and share it with the user before the interview. This will give them time to think about your questions and provide more thoughtful answers.
+You can use survey software to create a more interactive interview experience. For example, you can use branching logic to show users different questions based on their previous answers.
+You can use survey software to collect data from multiple users at once. This can be helpful if you are interviewing users from different locations.
+
+Overall, survey software can be a valuable tool for conducting user interviews. It can help you to collect more data, create a more interactive interview experience, and save time.
+What a user interview is not
+A user interview is not answered by the user in isolation. The goal of a user interview is to build rapport with the user and get them to trust you. This will allow you to collect more unbiased and honest information.
+Here are some additional things that a user interview is not:
+
+A user test
+A sales pitch
+A customer service encounter
+A therapy session
+A focus group
+
+User interviews are a unique type of research that can be used to gather valuable insights about your users. By following the tips above, you can conduct user interviews that are effective and informative.
+
+
+
+Subscribe for blog updates 
+
+
+
+
+
+Subscribe
+
+
+ I agree to receive electronic marketing communications from Freshsurvey and understand I can unsubscribe by clicking the unsubscribe link in any email or by contacting Freshsurvey.
+
+
+
+
+
+Thank you for subscribing!
+OOPS! something went wrong try after sometime
+ 
+
+
+ 
+
+
+
+
+
+
+
+Our Products
+
+Freshdesk
+
+
+Freshservice
+
+
+Freshsales
+
+
+Freshsales Suite
+
+
+Freshcaller
+
+
+Freshchat
+
+
+Freshteam
+
+
+Freshmarketer
+
+
+Freshping
+
+
+Freshstatus
+
+
+Freshsuccess
+
+Company
+
+About
+
+
+Leadership
+
+
+Board of Directors
+
+
+Investors
+
+
+Customers
+
+
+Solutions
+
+
+Affiliates
+
+
+Partners
+
+
+Careers
+
+
+News room
+
+
+GDPR
+
+
+Tax FAQs
+
+
+Contact us
+
+Events
+
+Customer First Summit
+
+
+Experience Roadshow
+
+
+Refresh
+
+Case Studies
+
+Citizens Advice
+
+Connect with us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

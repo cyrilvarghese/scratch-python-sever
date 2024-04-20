@@ -1,0 +1,408 @@
+
+
+
+
+
+
+
+
+
+
+User Interviews: Guide To An Insightful UX Interview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Works
+Services
+About
+Career
+Blog
+Contact
+
+Contact
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+All
+Artificial Intelligence
+
+Case Study
+
+Mobile UX
+
+Other
+
+Podcast
+
+Product Management
+
+UX Design
+
+UX Research
+
+Web App UX
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+User Interviews: Guide To An Insightful UX Interview
+
+
+
+Mária Ilona Horváth
+
+
+September 6, 2018
+
+
+UX Research 
+
+
+
+
+
+
+
+Contents
+What are user interviews and when to use them?User interviews: planning and preparationConducting the user interviewAnalysis of the user interviewSummary: 7 essentials to insightful user interviews
+
+
+
+
+								How to do a good user interview? Do you REALLY know your users' pain points or are you just seeing the top of the iceberg? Let's face it: all products and research processes have new challenges. We, at our UX company, give you our process and essentials to good user interviews.
+
+
+
+								
+
+
+
+In this post we cover:
+
+Planning an interview
+Conducting the interview
+Interview analysis
++ 7 Essentials to a good user interview
+
+What are user interviews and when to use them?
+A user interview differs from an everyday conversation
+Mainly in its aim and the roles each person plays. An interview has a well-defined and previously agreed upon topic or question the interviewer wants to understand, explore or better specify by talking to people and listening to them.
+Accordingly, the UX researcher talks with people who in some way belong to the target group connected to their topic, researched product, service or broader problem during a UX interview.
+When deciding on the method of interviewing, you don’t only need a clearly defined topic and a good idea for your target group. You also want a convincing reason for choosing this technique, perhaps real curiosity, a lack of data from other sources or the impossibility of using other methods.
+A good interview results from deep and well-researched interest and openness. To simply validate existing beliefs, concepts or already collected – perhaps quantitative – data, consider other options. You can share surveys or do desktop research instead of taking the time to conduct interviews. Find our summary on different UX research methods here.
+Do user interviews when you need exploration
+Do user interviews if your question or problem needs further exploration or you need insight into how others relate to your topic. Also, if you want the option to ask back and react to what your respondents have to share.
+Interviewing works great in the early phase of developing a concept or product. Also, it can really provide insight when researching existing solutions by asking people’s opinions on and experience with it.
+User interviews provide an understanding of how your target audience talks about an issue in a more intimate setting. What do they mention as their main problems, needs, wishes and joys regarding a process, service or solution? Also, it can reveal how they express themselves when talking about such factors.
+You can also create personas
+When preparing products and thinking about users, you can also create personas.
+To learn more, read our post on personas here
+User interviews collect what people say about a topic and how they say it during the interview session. Do not confuse that with how they think or feel about the question in general. It takes time and practice to differentiate these realms easily.
+Planning can start once interviews have clearly proven themselves the best method for researching a topic.
+User interviews: planning and preparation
+1. Consider the time and the resources
+No golden rule says how to plan these elements, as the difficulty of the topic and that of recruitment can influence this.
+Once you have everybody on the same page about interviewing, start developing a research plan and specifying the main questions to answer in connection with the topic.
+Calculate sufficient time for interviews, especially if you work in a bigger or remote team. Poorly prepared questions or dissimilar interviews can ruin your efforts.
+Project planning can be hard but fun, too! We at UX Studio usually do it with post-its.
+2. Choose a structure: semi-structured or unstructured
+Once you have an idea about the most important questions, choose a structure. We won’t discuss structured interviews here as they resemble surveys more than explorative interviews based on the approach introduced this far. So go for semi-structured or unstructured interviews.
+We recommend semi-structured user interviews, as leading and analyzing unstructured ones really take a lot of time and practice. Also, if you want to share the workload within a team, semi-structured interviews and such guides leave less room for misunderstanding.
+Wonderful, but what is a semi-structured interview? A semi-structured interview operates with a set of questions and a proposed order for them as defined in the user interview guide.
+The interviewer has to prepare and have the willingness to change these questions and add new ones if the interview situation requires. The interview guide serves as an invaluable asset in finding the golden path between an overly strict structure and an overly vague organization for the interview.
+A semi-structured interview guide leaves room to improvise and helps with tips on how to handle unexpected situations or directions of the talk. Remember what we’ve said about the nature and worth of interviews: You would not have expected some of the most important and interesting findings.
+
+Writing a UX research plan and interview guide also proves helpful in collecting and evaluating assumptions and any possible bias. Pay attention to them, as unreflected-upon assumptions and researchers’ bias can interfere a lot with results.
+You can write a UX interview guide and recruit participants simultaneously. However, we write interview guides before talking to participants, not simply because of the problematics of bias but also in order to take the right approach to this easily. Instead of writing a guide to the first respondents, we want to find respondents to our questions and guide.
+3. User recruitment: You can do it!
+Recruitment might be difficult. Luckily, tips and ideas abound on how to find respondents for your interviews. Here, we will only stress (relieved by CBD isolate powder)one very important detail that can separate a really insightful interview from average ones.
+Let’s say you have already tried all the databases you might have. Keep GDPR in mind, though! You posted calls on social media, wrote ads, offered incentives and subscribed to platforms, asked friends and family and still have difficulty finding (enough) respondents.
+Alternatively, offer cupcakes! We bet you’ll find enough respondents!
+Again, some extremely difficult topics can make recruitment tough. We’ve gone through that. Still, at this stage, you might want to go back quickly and check your UX research plan, topics and an interview guide. Even if you can’t make systematic changes at this point, sooner make small adjustments to the plan than compromise requirements by recruiting somebody who does not really fit but seems “almost OK”.
+4. Schedule your user interviews
+If you’ve successfully found your respondents, keep in mind that success does not only depend on the actual interview. The way you first contact interviewees will affect them. Your tone and style will impact their relaxation levels once you actually start talking about your questions.
+Depending on the organization of a user experience research project, different people may contact and schedule the interviews from those conducting them. In such a case, make sure within the team that the respondents join the interview well informed.
+Also, when asking them to participate, you will inevitably tell them something about the topic and the goals of the interview. For one, it stands as an ethical requirement.
+Always state the aims of the project and summarize participants’ rights so they can give informed consent to participate. It makes it easier for you, too. If respondents have an idea of what will happen during the interview, it reduces the risk of scheduling an unsuccessful or cancelled interview.
+Still, the possibility remains for cancelled or less insightful interviews. Therefore, we at UX Studio always calculate with more interviews than absolutely necessary for our UX research goal.
+5. Remote user interviews?
+Some situations prevent personal interviews, otherwise the ideal choice of user research method. Life just doesn’t work that way. When conducting remote (e.g. phone) interviews, keep in mind that some factors and response effects might have a stronger influence on respondent answers in such a setting.
+Preparation for a remote interview: Focus is key.
+For example, people tend to finish remote interviews sooner than in person. People on the phone agree easier and answer in shorter sentences. They lose patience. Also, you can’t observe non-verbal reactions and body language in as much detail as when in the same room. It makes sense to adjust your interview guide and planning accordingly, like to formulate questions very clearly.
+Conducting the user interview
+1. Before the user interview, prepare
+Calculate sufficient time for the interview. You will have to concentrate, as it makes for a tiring process. Also, spend time preparing before every single interview even if you’ve already conducted interviews focusing on the same topic.
+Why? Because you need some time before the actual interview to go through your interview guide to get calm and confident enough when starting the interview. Also, check the respondent data quickly so you can make minor changes in the guide to make it more relevant. This way, you can greet your respondents naturally and kindly, which proves not just nice but it boots up your interview process!
+Nothing says “welcome and relax” more than our office dogs!
+2. Make interviewees feel comfortable
+When the users arrive – and after offering a coffee or glass of water – we at UX Studio usually guide them to the interview room while making a few warm-up remarks or asking some casual questions. Meeting the respondents at their location of choice really makes them more comfortable!
+Here, you can also see why remote interviews can get more complicated. You lose all these options to create a relaxing atmosphere.
+Once you have everything set and your respondent has relaxed enough, quickly introduce the research you’re working on, thank them for the interview, and summarize participants’ rights and the terms of participation. After this point, signing an informed consent form (and if necessary, a confidentiality disclosure) and discussing the details of a possible recording follows.
+3. Do the interview like a smooth conversation
+Start the interview with a warm-up session. Discussing rights, signing forms and switching on a voice or video recorder interfere with your interviewee’s state of mind. Find our tips on recording a UX interview here.
+Depending on the difficulty and sensitivity of the topic and the scheduled length of the interview, this warm-up phase can go shorter or longer. But we’ve found that it usually takes five to seven minutes.
+Try to make the transition from this part to your central topic smooth. Again, consider the interview guide your friend and build a logical bridge between your warm-up questions and your main topic.
+This is key to conducting insightful user interviews. Not only the questions follow in a meaningful order but the interviewer’s tone of voice, body language and gestures signal interest in all the answers, not only in those marked as important in the interview guide.
+This way, the respondent can participate in a normal conversation where they do not feel tested on or experimented with. Aim to really understand users. Let them talk, not just answer.
+Don’t just focus on open-ended research interview questions about their central problems, frustrations and pain points regarding the topic. It involves more than simply embracing silence, trusting your respondents and efforts thus far. You recruited these people because they have something interesting to tell you; give them time and room to do so.
+4. Listen and ask clever questions
+If they start telling you something that seems irrelevant at first, bear with them a bit. The detour they make might lead you to the diamond you are mining for with interviewing. We can’t stress enough: Discovery interviews explore stuff you would have not thought of otherwise.
+Don’t misunderstand, take the lead during the interview and keep track of time but remain flexible and truly curious about what the respondents have to share.
+Especially so, as some interviews prove to be tricky. Don’t worry,  we’ve met less talkative respondents, too. You can always use little tricks to make them more engaged in the conversation. You can find out more by guiding the respondents to share more. How? If you feel that your respondent did not tell you everything you needed to know, use probing or summarizing questions.
+If you simply repeat what they just said, people tend to add more details to it. Also, you can check if you really understand the point they are making.  Silence is a great tool, too. If you are patient enough and don’t rush to ask another question to fill the silence, people usually make an extra effort to answer your initial question. Additionally, you can always point out nicely that they are experts and you need more details or further explanation of the topic.
+When you have asked all your UX research questions and got all the answers you needed, move on to the last part of the interview.
+Closing the conversation in a skilled way is not simply polite but can add valuable insight to your results, too. For that reason, we always ask respondents about the interview experience. It helps them (and us!) come out of interview mode and improves the user experience research process.
+Also, ask them if they have any thoughts connected to the topic which you hadn’t raised. You may collect ideas to develop for the next interview. Lastly, express gratitude!
+5. After the interview: not quite finished
+Your respondent’s interview process has finished there, but another difficult part begins for you now. First, right after saying goodbye to your interviewee, write down your notes, remarks and impressions. What makes it so important and beneficial to sit down and collect your reflections? Because the experience is fresh, you remember things you might not when listening to your recording.
+You can’t just relax now; some work still needs doing.
+Also, it adds to your notes taken during the session. When you take notes while listening to your respondent and thinking about your next user research question, you have to concentrate on the here and now. Collecting the ideas, reflections and analytical problems that occurred to you during the user interview should go into your after-session notes.
+These notes also open the door to the analytical process following the interview. Even though we believe analysis starts when you start thinking about the UX interview questions to ask, your collected data requires another form of systematic analysis.
+Analysis of the user interview
+Just like with the topic of recruitment, we will mostly focus on sharing some tips. Still, you can find lots of material available online and off on analyzing interviews. A well-prepared and conducted semi-structured interview will offer many insights and possible directions of analysis. Just choose one (or a few) to pursue.
+Embrace the specifics of qualitative data and do not try to understand it with a quantitative mindset. It doesn’t only involve numbers, figures or even facts. Among other things, it deals with experience, memory, expression, expectation and wishes.
+However, working with qualitative data requires a systematic approach. We would also add that analyzing and sharing qualitative data convincingly takes a certain kind of discipline.
+As the analysis and the resulting suggestions build on interpretations of what you heard during the interviews, have confidence in your findings. Do not only share some quotes but detail your reasoning on why you understand this or that quote this or that way. As we see it, the interview process really ends here for the interviewer.
+Summary: 7 essentials to insightful user interviews
+1. Plan: go deep, do a research plan and an interview guide, take into account the time and the resources as well
+2. Provide a calm atmosphere for the interview: even offering tea and coffee can do the trick. A relaxed user is an open user
+3. Prepare and be confident as a researcher: know the interview guide, but know the subject to be able to be flexible and go around it
+4. Prepare and inform the respondent: do the UX for your own interview, pave the path to an open conversation
+5. Take notes and collect impressions: actions sometimes speak louder than words
+6. Embrace the specifics of qualitative data
+7. Practice and be patient: be willing to improve your interview skills, even if it takes time
+ 
+Read more here about usability tests
+If you want to learn more about UX design, check out our e-book!
+Dive even deeper with our UX design book!
+More into in-person learning? Reach out to if you are thinking about organizing an in-house UX training for your team. We sure have some ideas! 😉
+
+
+
+
+
+
+
+UX Research 
+
+
+
+
+
+
+Mária Ilona Horváth
+				UX Researcher;  deeply curious about whys and hows
+Fan of logic puzzles and crime novels since childhood
+Anthropology-enthusiast			
+
+
+
+
+Improve user experience in your product
+Download our Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let's talk
+
+
+Drop a message
+
+
+Schedule a call
+
+
+
+
+
+
+
+
+
+
+
+
+
+HQ | Budapest, Hungarywith a Team from 13 Countries
+
+
+
+
+
+
+
+
+
+Services
+
+
+UI/UX Design
+UX Research
+UX Audit
+UX Training
+
+
+Expert Review
+Discovery
+UX Consulting
+
+
+
+
+
+
+About
+
+About Us
+Career
+Privacy Policies
+Contact
+
+
+
+
+
+Resources
+
+Product Managers’ Guide to UX Design
+Research Repository
+Do People Trust AI?
+
+
+
+
+
+
+
+
+
+ 🍪 We Love Cookies! 🍪 Cookies help us serve you better. Enjoy our site to the fullest or click “Deny” to opt out.
+
+
+Deny
+
+All right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

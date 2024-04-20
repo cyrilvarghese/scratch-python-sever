@@ -34,7 +34,7 @@ class ProjectCreate(BaseModel):
 class File(BaseModel):
     id: int
     name: str
-
+    created_at: str
 
 class JobDetails(BaseModel):
     id: int
