@@ -34,46 +34,6 @@ splitter =  RecursiveCharacterTextSplitter(
             )
 
 
-
-
-# # Function to process files in a folder
-# async def process_files(folder_path="../python-server/files"):
- 
-
-#     try:
-#         files = os.listdir(folder_path)
-
-#         for file in files:
-#             file_path = os.path.join(folder_path, file)
-#             file_type =  get_file_type(file_path)
-
-#             if file_type == "txt" and "urls.txt" not in file:
-#                  get_text_loader(file_path)
-#             elif file_type == "pdf":
-#                  get_pdf_loader(file_path)
-#             else:
-#                 print(f"Unsupported file type for {file_path}")
-
-#         docs_to_index =[];
-#         for array in documents:
-#             docs_to_index.extend(array)
-      
-#         print("Document count:", len(docs_to_index))
-#         print("adding docs:....")
-
-#         # Create vector store
-#         return await Chroma.afrom_documents(
-#             docs_to_index,
-#             embeddings,
-#             collection_name="ux-research-base",
-#             persist_directory="chroma_db"
-#         )
-      
-
-#     except Exception as e:
-#         print('Error processing files:', e)
-
-
 async def process_files(folder_path="../python-server/files", processed_files_path="../python-server/files/processed_files.txt"):
     try:
         # Read the list of processed files

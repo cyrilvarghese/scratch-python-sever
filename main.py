@@ -1,7 +1,7 @@
 from fastapi import FastAPI, WebSocket,Request
 from modules.query_router import query_router
 from modules.answer_router import answer_router
-from modules.upload_router import upload_router
+from modules.upload_new_router import upload_new_router
 from modules.read_data_router import read_data_router
 from modules.urls_router import load_url_router
 from modules.ws_router import ws_router
@@ -53,7 +53,7 @@ async def websocket_endpoint(websocket: WebSocket):
 # Include routers for different endpoints
 app.include_router(query_router, prefix="/api/query")
 app.include_router(answer_router, prefix="/api/answer")
-app.include_router(upload_router, prefix="/api/upload")
+app.include_router(upload_new_router, prefix="/api/upload")
 app.include_router(files_router, prefix="/api/files")
 app.include_router(read_data_router, prefix="/api/read-data")
 app.include_router(load_url_router, prefix="/api/load-urls")

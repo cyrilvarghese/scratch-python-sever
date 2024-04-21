@@ -14,7 +14,7 @@ def generate_filename(url):
     domain_extension = domain_parts[-1]
     last_part = path_parts[-1] if path_parts[-1] else path_parts[-2]
     formatted_date = datetime.now().strftime('%d_ %b\'%y')
-    filename = f"{website_name}_{formatted_date}_{last_part}.{domain_extension}.txt"
+    filename = f"{website_name}_{formatted_date}_{last_part}_web.{domain_extension}.txt"
     os.makedirs(os.path.dirname(MAPPING_FILE), exist_ok=True)
     save_mapping(filename, url)
     return filename

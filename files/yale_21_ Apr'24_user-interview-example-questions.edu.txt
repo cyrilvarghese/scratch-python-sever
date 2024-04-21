@@ -1,0 +1,346 @@
+
+
+  
+
+
+
+
+
+
+
+
+
+
+User Interview Example Questions | Usability & Web Accessibility
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+ 
+
+
+Yale University
+
+
+Open Main Navigation
+
+Close Main Navigation
+
+
+
+
+
+
+
+
+
+
+Search this site 
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+Usability & Web Accessibility
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Understanding Your User
+Usability Best Practices
+Usability Evaluation
+Web Accessibility
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+Home > Understanding Your User > User Interviews > User Interview Example Questions
+
+
+
+
+
+
+User Interview Example Questions
+
+
+
+
+
+The following are sample questions for a user interview. Please note that your questions need to be tailored to each individual project.
+Questions for Getting to know the user:
+
+Please tell me about yourself and your relationship to Yale.
+
+If they are student ask — major, year, school?
+If they are employee ask — what type of employment, and for how long?
+
+
+Please tell me about your relation to the [project topic]?
+Describe your typical day at [role environment]?
+When you are on a computer and the internet, are there any challenges you face accessing information?
+
+Questions for gathering user behavior:
+
+What are the most important tasks you or other people need to perform in using [project website or application]?
+How would you describe your past and current experience with [project topic, website or application]?
+How often do you use or see yourself using [project website or application]?
+How do you normally get to [project website or application]?
+
+If answer is direct URL ask – Do you use a bookmark for this?
+If answer is web searching ask – What terms do you typical search for?
+If answer is a link on another site ask – What sites?
+If answer is a bookmarked link ask – Do you remember how you first obtained the URL?
+
+
+What devices do you typically use when visiting [project website or application]?
+Do you or did you in the past use other websites and resources for the same purpose as [project website or application]?
+Is there anything you or your users often look for on [project website or application] that is missing or hard to find?
+Is there any way [project website or application] isn't supporting your needs currently?
+If you had a question regarding [project topic] do you know who to contact?
+
+If yes – how do you know?
+If no – how would you go about contacting someone?
+
+
+
+Questions for gathering opinion:
+
+What do you see as the primary function of the [project topic]?
+What do you see as the primary function of the [project website or application]?
+What do you like about the current [project website or application]?
+What don’t you like about the current [project website or application]?
+
+Questions for gathering user awareness:
+
+Are you aware that [project topic, website or application] offers [particular feature]?
+
+Questions about the project goal:
+
+What is your main goal when visiting the [project website or application]?
+
+Ask follow up question - Do you have any secondary goals?
+
+
+What would prevent you from achieving [project goal]?
+What improvements could be made to make [project goal] easier or better?
+
+Questions for projects that provide information:
+
+How do you use the information on the [project website or application]?
+Would you ever need to share these metrics with others?
+
+If yes – who, what format and method of sharing?
+
+
+Would you ever need to export [information or asset in project]?
+
+If yes – when, why and in what format?
+
+
+
+Questions for a project that has a process:
+(ex: purchasing, submitting a request or creating assets)
+
+How long do you expect the [process in the project] to take?
+Do you remember the communication or any follow up after you performed the [process in the project]?
+Under what circumstances would you want to receive an alert in [process in the project]?
+
+Questions for closing out the interview:
+
+What haven’t we asked you today that you think would be valuable for us to know?
+May I contact you if we have any other questions or for possible further research for this project?
+
+
+
+
+
+
+
+
+
+
+
+Additional NavigationClose
+
+
+Understanding Your User
+
+
+User Goals
+User InterviewsUser Interview Example Questions
+
+Journey Maps
+Archetypes and Personas
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+Yale
+
+
+
+
+
+Accessibility at Yale ·
+      Privacy policy 
+      Copyright © 2024 Yale University · All rights reserved
+    
+
+
+
+
+
+
+Yale ITS Services
+
+Website Consultation and Build
+Usability Consulting and Research
+Accessibility Consulting, Tools and Training
+Website Consulting and Build
+Contact
+ux@yale.edu
+accessibility@yale.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

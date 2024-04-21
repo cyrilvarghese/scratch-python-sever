@@ -45,7 +45,7 @@ async def upload_pdfs(files_data: str = Form(...),pdf_files: list[UploadFile] = 
 
         response["uploaded_files"].append(pdf_file.filename)
         
-    await process_files();
+    # await process_files();
     return response
 
 @upload_router.get("/")

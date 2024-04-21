@@ -1,0 +1,1149 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+How to conduct effective user interviews for UX research
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Courses
+
+UX Design
+UI Design
+Product DesignBundle and save
+User ResearchNew
+Content Design
+UX Design Fundamentals
+Software and Coding Fundamentals for UX
+
+
+For Companies
+
+UX training for teams
+Hire our alumni
+
+
+Partners
+Resources
+
+Blog
+Student Stories
+Videos
+State of UX Hiring Report 2024
+
+
+About Us
+
+Our mission
+Leadership
+Advisory Council
+Contact us
+
+
+ 
+Login
+
+
+Speak to an advisor 
+
+
+
+
+
+
+
+
+ 
+
+
+
+Login
+
+
+Speak to an advisor 
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Latest articles
+Design
+Career
+Leadership
+ 
+
+Blog
+
+
+Latest articles
+Design
+Career
+Leadership
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Education for every phase of your UX career
+
+
+
+
+Professional Diploma
+
+UX Design
+Learn the full user experience (UX) process from research to interaction design to prototyping.
+
+
+
+
+
+
+Product DesignBundle and save
+Combine the UX Diploma with the UI Certificate to pursue a career as a product designer.
+
+
+
+
+
+Professional Certificates
+
+
+
+User ResearchNew
+Learn how to plan, execute, analyse and communicate user research effectively.
+
+
+
+
+
+
+Content Design
+Master content design and UX writing principles, from tone and style to writing for interfaces.
+
+
+
+
+
+
+UI Design
+Understand the fundamentals of UI elements and design systems, as well as the role of UI in UX.
+
+
+
+
+
+Short Courses
+
+
+
+UX Design Fundamentals
+Gain a solid foundation in the philosophy, principles and methods of user experience design.
+
+
+
+
+
+
+Software and Coding Fundamentals for UX
+Learn the essentials of software development so you can work more effectively with developers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UX training for teams
+Give your team the skills, knowledge and mindset to create great digital products.
+
+
+
+
+
+
+Hire our alumni
+Join our hiring programme and access our list of certified professionals.
+
+
+
+
+
+
+
+
+
+
+Our mission
+Learn about our mission to set the global standard in UX education.
+
+
+
+
+
+
+Leadership
+Meet our leadership team with UX and education expertise.
+
+
+
+
+
+
+Advisory Council
+Members of the council connect us to the wider UX industry.
+
+
+
+
+
+
+Contact us
+Our team are available to answer any of your questions.
+
+
+
+
+
+
+
+
+
+
+Blog
+Fresh insights from experts, alumni and the wider design community.
+
+
+
+
+
+
+Student Stories
+Success stories from our course alumni building thriving careers.
+
+
+
+
+
+
+Videos
+Discover a wealth of UX expertise on our YouTube channel.
+
+
+
+
+
+
+State of UX Hiring Report 2024
+Latest industry insights. A practical guide to landing a job in UX.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Design 
+How to conduct effective user interviews for UX research
+
+User interviews are a popular UX research technique, providing valuable insight into how your users think and feel. Learn about the different types of user interviews and how to conduct your own in this guide. 
+
+
+
+
+
+Emily Stevens 
+
+●
+
+10 May 2023 
+●
+
+11 min read 
+
+
+
+
+
+
+
+
+
+The State of UX Hiring Report 2024
+Learn how to start your UX career with hard facts and practical advice from those who have gone before you. In this report, we look at UX hiring trends in 2024 to help you break into the industry.
+
+
+
+Download the report
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+ 
+
+User interviews are a popular UX research technique, providing valuable insight into how your users think and feel. Learn about the different types of user interviews and how to conduct your own in this guide. 
+User research is fundamental for good UX. It helps you get to know your users and design products that meet their needs and solve their pain-points. 
+One of the most popular UX research methods is user interviews. With this technique, you get to hear from your users first-hand, learning about their needs, goals, expectations, and frustrations—anything they think and feel in relation to the problem space.
+But when should you conduct user interviews and how do you make sure they yield valuable results?
+Follow this guide and you’ll be a user interview pro. We explain:
+
+What are user interviews in UX research?
+What are the different types of user interviews?
+When should you conduct user interviews?
+What data and insights do you get from user interviews?
+How to conduct effective user interviews for UX research: A step-by-step guide
+What happens next? How to analyse your user interview data
+
+First things first: What are user interviews?
+
+
+
+
+
+[GET CERTIFIED IN USER RESEARCH]
+Take our Professional Certificate in User Research
+
+
+
+
+
+What are user interviews in UX research?
+Interviews are one of the most popular UX research methods. They provide valuable insight into how your users think, feel, and talk about a particular topic or scenario—allowing you to paint a rich and detailed picture of their needs and goals. 
+interviews take place on a one-to-one basis, with a UX designer or UX researcher asking the user questions and recording their answers. They can last anywhere between 30 minutes and an hour, and they can be done at various stages of a UX design project. 
+What are the different types of user interviews?
+There are several different types of user interviews. They can be:
+
+
+Structured, semi-structured, or unstructured
+Generative, contextual, or continuous
+Remote or in-person
+
+Let’s explore these in more detail.
+Structured vs. semi-structured vs. unstructured user interviews
+Structured interviews follow a set list of questions in a set order. The questions are usually closed—i.e. there’s a limit to how participants can respond (e.g. “Yes” or “No”). Structured interviews ensure that all research participants get exactly the same questions, and are most appropriate when you already have a good understanding of the topic/area you’re researching. 
+Structured interviews also make it easier to compare the data gathered from each interview. However, a disadvantage is that they are rather restrictive; they don’t invite much elaboration or nuance. 
+Semi-structured interviews are based on an interview guide rather than a full script, providing some pre-written questions. These tend to be open-ended questions, allowing the user to answer freely. The interviewer will then ask follow-up questions to gain a deeper understanding of the user’s answers. Semi-structured interviews are great for eliciting rich user insights—but, without a set script of questions, there’s a high risk of researcher bias (for example, asking questions that unintentionally lead the participant in a certain direction). 
+Unstructured user interviews are completely unscripted. It’s up to the interviewer to come up with questions on the spot, based on the user’s previous answers. These are some of the trickiest types of user interviews—you’re under pressure to think fast while avoiding questions that might bias the user’s answer. Still, if done well, unstructured interviews are great if you have very little knowledge or data about the domain and want to explore it openly. 
+Generative vs. contextual vs. continuous user interviews
+Generative user interviews are ideal for early-stage exploration and discovery. They help you to uncover what you don’t know—in other words, what insights are you missing? What user problem should you be trying to solve? Which areas and topics can you identify for further user research? Generative interviews are usually unstructured or semi-structured. 
+Contextual user interviews take place in a specific context—while the user is carrying out a certain task, for example. This allows you to not only observe the user’s actions/behaviour first-hand, but also to ask questions and learn more about why the user takes certain actions and how they feel in the process. Contextual interviews tend to be semi-structured. 
+Continuous user interviews are conducted as part of continuous UX research. While traditional user research is done within the scope of a specific project, continuous UX research is ongoing, conducted at regular interviews (e.g. weekly or monthly) with the goal of continuous product improvement. Continuous interviews are like regular check-ins with your users, giving you ongoing insight into their needs, goals, and pain-points. 
+
+
+
+
+
+[GET CERTIFIED IN UX]
+Take our Professional Diploma in UX Design course
+
+
+
+
+
+Remote vs. in-person user interviews
+A final distinction to make is between remote and in-person interviews. 
+In-person user interviews take place with the user and researcher in the same room. A big advantage of in-person interviews is that you’re privy to the user’s body language—an additional insight into how they feel. 
+Remote user interviews take place via video call. Like any kind of remote work, they’re more flexible and may be more accessible for research participants as they don’t require any travel. 
+When should you conduct user interviews?
+User interviews provide value at various stages of a design project. You can use them for:
+
+Discovery and ideation—when you want to learn more about your target users and the problems they need you to solve.
+UX testing and product improvement—when you want to get user feedback on an existing design concept or solution.
+Continuous UX research—you can run regular interviews as part of a continuous UX research framework. 
+
+Let’s take a closer look. 
+User interviews for discovery and ideation
+User interviews can be useful right at the beginning of a UX project, when you don’t know much (or anything) about the domain and don’t yet have a design direction. At this stage, everything is pretty open and your user interviews will be exploratory. 
+Conducting user interviews early in the process will help you to answer questions such as “Who are our target users?”, “What problems do they need us to solve?” and “What are their goals and expectations in relation to the problem space?”
+Here you’ll be focusing on generative user interviews (i.e. finding out what you don’t know), and they’ll likely be unstructured or semi-structured.
+User interviews as part of UX testing and product improvement
+User interviews also come in handy when you have an idea or concept you want to evaluate, or even a working product you want to test. 
+At this stage, you might present the user with a prototype and ask them questions about it. If you’re further along in the design process, you can run user interviews as an add-on to UX testing—having the user interact with a working prototype (or the product itself) and asking them questions at the same time. These are the contextual interviews we described earlier. 
+Conducting user interviews at this stage will help you gain insight into how your users feel about a concept/product/experience and to identify pain-points or usability issues within the existing design. 
+User interviews as part of continuous UX research
+User interviews are also valuable as part of a continuous UX research framework. Here, there is no project-specific goal—rather, you’re interviewing users regularly to gain ongoing user insights. This enables you to maintain a user-centric design process and to evolve your product continuously as you learn more about your users. 
+You can learn more about the importance of continuous UX research here.
+What data and insights do you get from user interviews?
+User interviews allow you to hear from the user, in their own words, how they think and feel about a particular problem space/experience/task. This provides rich insights into their thoughts, beliefs, experiences, problems, goals, desires, motivations, and expectations, as well as the rationale or thought process behind certain actions. 
+As such, user interviews generate qualitative data. That is, data which tells you about a person’s thoughts, feelings, and subjective experiences. It’s the opposite of quantitative data which is objective, numerical, and measurable. You can learn more about the difference between quantitative and qualitative user research data here.
+Note that user interviews generate self-reported data. Self-reported data is based on what the user chooses to share with you (you’re not observing it; rather, you’re hearing it from the user). It’s how they report to be feeling or thinking. 
+If you conduct contextual user interviews, you’ll gather a mixture of observational data (based on what you observe the user doing) and self-reported data. 
+After conducting user interviews, you’ll end up with lots of data in the form of interview transcripts, audio or video recordings, and your own notes. We’ll look at how to analyse your user interview data in the final section of this guide. 
+First, though, here’s a step-by-step plan you can follow to conduct effective user interviews. 
+How to conduct effective user interviews for UX research: A step-by-step guide
+Ready to conduct your own user interviews? Follow our step-by-step guide to get started.
+
+Determine what type of user interviews you’ll conduct
+Write your user interview script (or guide)
+Set up the necessary tools
+Recruit your interview participants
+Perfect your interview technique
+
+Let’s walk through our plan step by step. 
+1. Determine what type of user interviews you’ll conduct
+Earlier in this guide, we outlined the different types of user interviews: Structured, semi-structured, and unstructured; generative, contextual, and continuous; and remote and in-person. 
+The first step is to determine what format your user interviews will take. This depends on:
+
+What stage you’re at in the project/process
+What your research goals are
+
+If you’re at the very early stages of a design project, you’ll likely want to keep your user interviews open and exploratory—opting for unstructured or semi-structured interviews. 
+Perhaps you’ve already got a design underway and want to interview your users as they interact with it. In that case, structured or semi-structured contextual interviews may work best. 
+Consider what you want to learn from your user interviews and go from there. 
+2. Write your user interview script (or guide)
+How you approach this step will depend on whether you’re conducting structured, semi-structured, or unstructured user interviews.
+For structured interviews, you’ll need to write a full interview script—paying attention to the order of the questions. The script should also incorporate follow-up questions; you won’t have the freedom to improvise or ask additional questions outside of your script, so make sure you’re covering all possible ground. 
+For semi-structured interviews, you’ll write an interview guide rather than a rigid script. Come up with a set list of questions you definitely want to ask and use these—and your users’ answers—as a springboard for follow-up questions during the interview itself. 
+For unstructured user interviews, you can go in without a script. However, it’s useful to at least brainstorm some questions you might ask to get the interview started. 
+Regardless of whether you’re conducting structured, semi-structured, or unstructured interviews, it’s essential that your questions are:
+
+Open-ended. These are questions that cannot be answered with a simple “yes” or “no”. They require more elaboration from the user, providing you with much more insightful answers. An example of an open question could be “Can you tell me about your experience of using mobile apps to book train tickets?” versus a closed question such as “Have you ever used a mobile app to book train tickets?”
+
+Unbiased and non-leading. You want to be very careful about how you word your questions. It’s important that you don’t unintentionally lead the user or bias their answer in any way. For example, if you ask “How often do you practise app-based meditation?”, you’re assuming that the user practises meditation at all. A better question would be “What are your thoughts on app-based meditation?” 
+
+It’s worth having someone else check your questions before you use them in a user interview. This will help you to remove any unintentionally biased or leading questions which may compromise the quality of your research data. 
+3. Recruit your interview participants
+Your user interviews should involve people who represent your target users. This might be existing customers and/or representative users who fit the persona you would be designing for. 
+Some common methods for recruiting user research participants include:
+
+Posting on social media
+Working with a dedicated agency or platform which will connect you with suitable participants
+Recruiting from your own customer or user database
+
+The good thing about user interviews is that you don’t need loads of participants to gather valuable data. Focus on quality over quantity, recruiting between five and ten interviewees who closely match your target group. 
+4. Set up the necessary tools
+Now for the practical matter of getting your user interviews underway. If you’re conducting in-person user interviews, you’ll need to choose an appropriate setting—ideally somewhere quiet and neutral where the user will feel relaxed. 
+For remote user interviews, you’ll need to set up the necessary software, such as Zoom, dscout, or Lookback. Consult this guide for more UX research tools. 
+You’ll also need to consider how you’re going to record the user’s answers. Will you use good old fashioned pen and paper, a simple note-taking app, or a recording and transcription software? 
+Make a list of all the tools you’ll need for a seamless user interview and get everything set up in advance. 
+5. Perfect your interview technique
+As the interviewer, you have an important role to play in ensuring the success of your user interviews. So what makes a good interviewer? Here are some tips to help you perfect your interview technique:
+
+Practise active listening. Show the user that you’re listening to them; maintain eye contact (try not to be too distracted with taking notes), let them speak without rushing, and don’t give any verbal or non-verbal cues that you’re judging their responses.
+Get comfortable with silence. In everyday conversations, it can be tempting to fill silences. But, in an interview situation, it’s important to lean into the power of the pause. Let the user think and speak when they’re ready—this is usually when you elicit the most interesting insights.
+Speak the user’s language. Communication is everything in user interviews. Don’t alienate the user by speaking “UX speak”—they may not be familiar with industry-specific terms, and this can add unnecessary friction to the experience. Keep it simple, conversational, and accessible.
+
+Ultimately, the key is to put your users at ease and create a space where they can talk openly and honestly. Perfect your interview technique and you’ll find it much easier to build a rapport with your research participants and uncover valuable, candid insights. 
+What happens next? How to analyse your user interview data 
+You’ve conducted your user interviews. Now you’re left with lots of unstructured, unorganised qualitative data—i.e. reams of notes. So how do you turn all those interview answers into useful, actionable insights? 
+The most common technique for analysing qualitative data is thematic analysis. This is where you read through all the data you’ve gathered (in this case, your notes and transcripts) and use ‘codes’ to denote different patterns that emerge across the dataset. 
+You’ll then ‘code’ different excerpts within your interview notes and transcripts, eventually sorting the coded data into a group of overarching themes. 
+At this stage, you can create an affinity diagram—writing all relevant findings and data points onto Post-it notes and ‘mapping’ them into topic clusters on a board. This is a great technique for physically working through your data and creating a visualisation of your themes, allowing you to step back and spot important patterns. 
+With your research data organised and categorised, you can review your findings in relation to your original research objectives. What do the themes and patterns tell you? What actions can you take from your findings? What gaps still need to be filled with further UX research?
+As a final step, you might write up a UX research report and present your findings to relevant stakeholders. 
+Learn more about UX research
+We hope you now have a clear understanding of what user interviews are, why they’re such a valuable UX research method, and how to conduct your own user interviews. If you’d like to learn more about user research, continue with these guides:
+
+A complete introduction to card sorting: What is it and how do you do it?
+What are UX personas and what are they used for?
+What’s the future of UX research? An interview with Mitchell Wakefield, User Researcher at NHS Digital
+
+
+user interviewsux research 
+
+
+
+
+
+Subscribe to our newsletter
+
+Get the best UX insights and career advice direct to your inbox each month.
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+Thanks for subscribing to our newsletter
+
+You'll now get the best career advice, industry insights and UX community content, direct to your inbox every month.
+
+
+
+
+
+ 
+
+
+
+
+
+Upcoming courses
+
+
+7 May 2024
+Professional Diploma in UX Design
+Learn the full UX process, from research to design to prototyping.
+
+View course details
+
+
+
+
+
+
+
+8 May 2024
+Professional Certificate in UI Design
+Master key concepts and techniques of UI design.
+
+View course details
+
+
+
+
+
+
+
+8 May 2024
+Certificate in Software and Coding Fundamentals for UX
+Collaborate effectively with software developers.
+
+View course details
+
+
+
+
+
+
+
+8 May 2024
+Certificate in UX Design Fundamentals
+Get a comprehensive introduction to UX design.
+
+View course details
+
+
+
+
+
+
+
+9 May 2024
+Professional Certificate in Content Design
+Learn the skills you need to start a career in content design.
+
+View course details
+
+
+
+
+
+
+
+9 May 2024
+Professional Certificate in User Research
+Master the research skills that make UX professionals so valuable.
+
+View course details
+
+
+
+
+
+
+
+
+
+Upcoming course
+
+
+
+
+
+
+
+Professional Diploma in UX Design 
+
+Build your UX career with a globally-recognised, industry-approved certification. Get the mindset, the skills and the confidence of UX designers.
+
+
+
+
+Starts
+7 May 2024
+
+
+Price
+
+€2,350
+€3,350
+
+
+
+
+View course details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You may also like
+
+
+
+
+
+ 
+
+UX Tools 
+
+
+The 10 best user interface (UI) design tools to try in 2024
+
+
+
+9 April 2024 
+●
+
+11 min read 
+
+
+
+
+
+
+
+ 
+
+UX Explained 
+
+
+The ultimate guide to usability testing for UX in 2024
+
+
+
+5 April 2024 
+●
+
+9 min read 
+
+
+
+
+
+
+
+ 
+
+UX Explained 
+
+
+A beginner’s guide to typography design
+
+
+
+22 March 2024 
+●
+
+8 min read 
+
+
+
+ 
+
+
+
+
+
+Professional Diploma in UX Design
+
+Build your UX career with a globally recognised, industry-approved qualification. Get the mindset, the confidence and the skills that make UX designers so valuable.
+
+
+
+
+
+Course starts
+7 May 2024
+
+
+Course price
+€2,350
+
+
+View course details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Courses
+UX Design
+UI Design
+Product DesignBundle and save
+User ResearchNew
+Content Design
+UX Design Fundamentals
+Software and Coding Fundamentals for UX
+ 
+
+For Companies
+UX training for teams
+Hire our alumni
+ Partners
+Universities and colleges
+Private education organisations
+ 
+
+About Us
+Our mission
+Leadership
+Advisory Council
+ 
+
+UX Design Institute
+Blog
+Student Stories
+Work for us
+Contact us
+ 
+
+
+
+
+
+4.9 
+691 Google reviews
+
+
+
+
+
+
+4.7 
+156 SwitchUp reviews
+
+
+
+
+
+
+4.8 
+44 Course Report reviews
+
+
+
+
+Contact
+
+UX Design Institute
+Digital Court
+Rainsford Street
+Dublin D08 R2YP
+
+
+E:
+hello@uxdesigninstitute.com
+
+
+P:
++353 1 485 3673
+
+
+
+
+
+
+
+UX Design Institute, Digital Court,
+Rainsford Street, Dublin D08 R2YP
+
+
+E:
+hello@uxdesigninstitute.com
+
+
+P:
++353 1 485 3673
+
+
+
+
+
+
+
+
+
+4.9 
+691 Google reviews
+
+
+
+
+
+
+4.7 
+156 SwitchUp reviews
+
+
+
+
+
+
+4.8 
+44 Course Report reviews
+
+
+
+
+
+
+UX Design Institute, Digital Court,
+Rainsford Street, Dublin D08 R2YP
+
+
+E:
+hello@uxdesigninstitute.com
+
+
+P:
++353 1 485 3673
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Courses
+
+UX Design
+UI Design
+Product DesignBundle and save
+User ResearchNew
+Content Design
+UX Design Fundamentals
+Software and Coding Fundamentals for UX
+ 
+For Companies
+
+UX training for teams
+Hire our alumni
+ 
+Partners
+
+Universities and colleges
+Private education organisations
+ 
+About Us
+
+Our mission
+Leadership
+Advisory Council
+ 
+UX Design Institute
+
+Blog
+Student Stories
+Work for us
+Contact us
+ 
+
+
+
+
+
+4.9 
+691 Google reviews
+
+
+
+
+
+
+4.7 
+156 SwitchUp reviews
+
+
+
+
+
+
+4.8 
+44 Course Report reviews
+
+
+
+
+
+
+UX Design Institute, Digital Court,
+Rainsford Street, Dublin D08 R2YP
+
+
+E:
+hello@uxdesigninstitute.com
+
+
+P:
++353 1 485 3673
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2024 UX Design Institute
+Registered in Ireland. No 505339
+
+
+Terms and conditions
+
+•
+
+Privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2024 UX Design Institute
+•
+Registered in Ireland. No 505339
+•
+
+Terms and conditions
+
+•
+
+Privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
