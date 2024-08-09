@@ -11,6 +11,9 @@ import numpy as np
 from langchain_community.embeddings import CohereEmbeddings
 from langchain_experimental.text_splitter import SemanticChunker
 from config import DB_NAME as collection_name
+from langchain.indexes import SQLRecordManager, index
+
+from modules.db import get_LC_chroma_client
 
 
 chroma_client = chromadb.HttpClient(host='localhost', port=3001)
@@ -18,7 +21,12 @@ collection = chroma_client.get_collection(name="ux-research-base")
 
 # embeddings = CohereEmbeddings(model="embed-english-light-v3.0")
 embeddings = OpenAIEmbeddings(model= "text-embedding-3-large")
- 
+namespace = f"chromadb/{collection_name}"
+record_manager = SQLRecordManager(
+    namespace, db_url="sqlite:///record_manager_cache.sql"
+)
+record_manager.create_schema()
+
 # Initialize list to store documents
 documents = []
 # splitter =  SemanticChunker(embeddings)
@@ -41,7 +49,6 @@ async def process_files(folder_path="../python-server/files", processed_files_pa
         # Read the list of processed files
         processed_files = read_processed_files(processed_files_path)
         
-        #get all the files in the folder
         files = os.listdir(folder_path)
 
         for file in files:
@@ -71,13 +78,20 @@ async def process_files(folder_path="../python-server/files", processed_files_pa
         print("Document count:", len(docs_to_index))
         print("Adding docs...")
 
-        # Create vector store
-        return await Chroma.afrom_documents(
+        langchain_chroma = get_LC_chroma_client()
+
+        response = index(
             docs_to_index,
-            embeddings,
-            collection_name="ux-research-base",
-            persist_directory="chroma_db"
+            record_manager,
+            langchain_chroma,
+            cleanup="incremental",
+            source_id_key="source",
         )
+
+        print(response)
+        # Create vector store
+        return response
+       
     except Exception as e:
         print('Error processing files:', e)
 

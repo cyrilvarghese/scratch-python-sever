@@ -1,4 +1,5 @@
-# query_router.py
+# SERVES THE FILES TO LOAD LIST OF FILES IN THE UI
+
 from dotenv import load_dotenv
 load_dotenv()
 from fastapi import APIRouter
